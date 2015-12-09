@@ -1,7 +1,7 @@
 setwd("") 
 y=read.table("", header=T, row.names=1, sep="\t")
-pdata=read.csv("blood.csv", header=T)
 
+pdata=read.csv("blood.csv", header=T)
 macrophages <- y[rownames(y) %in% as.character(pdata[pdata$cell == "Macrophages/Dendritic cells", 1]),]
 monocytes <- y[rownames(y) %in% as.character(pdata[pdata$cell == "Monocytes", 1]),]
 bcell <- y[rownames(y) %in% as.character(pdata[pdata$cell == "B cells", 1]),]
@@ -255,4 +255,4 @@ CellCycle=1- ((count(score[11,] < 20)[2,2])/50)
 
 FinalScore= cbind(macrophages,monocytes,bcells,neutrophils,nkcells,plasmacells,platelets,tcells,Ribosomes,IFNs,CellCycle)
 
-write.table(FinalScore,file="ImSig Score- Blood Microarray.txt", sep="\t")
+write.table(FinalScore,file="ImSig Score-Microarray-Blood.txt", sep="\t")
