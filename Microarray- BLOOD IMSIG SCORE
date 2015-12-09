@@ -1,5 +1,5 @@
 setwd("") 
-
+y=read.table("", header=T, row.names=1, sep="\t")
 pdata=read.csv("blood.csv", header=T)
 
 macrophages <- y[rownames(y) %in% as.character(pdata[pdata$cell == "Macrophages/Dendritic cells", 1]),]
