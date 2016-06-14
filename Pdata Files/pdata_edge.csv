@@ -1,12 +1,12 @@
 cell,edge blood,edge tissue,node blood,node tissue
-macrophage,3403,3403,83,83
-monocyte,2145,903,66,43
-bcells,2556,946,77,44
-neutrophil,8778,1485,133,55
-nkcell,2211,190,67,20
-plamacell,91,91,14,14
-platelet,2016,2016,64,64
-tcell,2145,4560,66,96
+macrophage,3160,3160,80,80
+monocyte,406,666,29,37
+bcells,1081,666,47,37
+neutrophil,528,1081,33,47
+nkcell,595,190,35,20
+plamacell,435,91,30,14
+platelet,861,861,42,42
+tcell,1711,3828,59,88
 Ribosome,3655,3655,86,86
-IFNs,3570,3570,85,85
-CellCycles,4851,4851,99,99
+IFNs,2346,2145,69,66
+CellCycles,1953,4851,63,99

@@ -1,836 +1,574 @@
 SYMBOL,cell,type
-ABCB4,B cells,blood
-AFF3,B cells,blood
-BANK1,B cells,blood
-BCL11A,B cells,blood
-BEND5,B cells,blood
 BLK,B cells,blood
-BLNK,B cells,blood
-BTLA,B cells,blood
-CCR6,B cells,blood
-CD180,B cells,blood
-CD19,B cells,blood
-CD200,B cells,blood
-CD22,B cells,blood
-CD37,B cells,blood
-CD72,B cells,blood
-CD79A,B cells,blood
 CD79B,B cells,blood
-CORO2B,B cells,blood
-CR2,B cells,blood
-CXCR5,B cells,blood
-CXXC5,B cells,blood
-CYB561A3,B cells,blood
-E2F5,B cells,blood
-EBF1,B cells,blood
-FAM129C,B cells,blood
-FCRL1,B cells,blood
-FCRL2,B cells,blood
-FCRLA,B cells,blood
-GGA2,B cells,blood
-GNG7,B cells,blood
-HIP1R,B cells,blood
-HLA-DOA,B cells,blood
-HLA-DOB,B cells,blood
-IGHV5-78,B cells,blood
-IL7,B cells,blood
-ITPR1,B cells,blood
-KIAA0125,B cells,blood
-LINC00926,B cells,blood
-LOC100130458,B cells,blood
-LOC100507616,B cells,blood
-MACROD2,B cells,blood
-MIR600HG,B cells,blood
-MS4A1,B cells,blood
-OSBPL10,B cells,blood
 P2RX5,B cells,blood
 PAX5,B cells,blood
+CD22,B cells,blood
 PCDH9,B cells,blood
-PIK3C2B,B cells,blood
-PKIG,B cells,blood
-PLEKHG1,B cells,blood
-PMEPA1,B cells,blood
-PNOC,B cells,blood
-PPAPDC1B,B cells,blood
-PTPRK,B cells,blood
+BCL11A,B cells,blood
+VPREB3,B cells,blood
+BTLA,B cells,blood
+STRBP,B cells,blood
+FAM129C,B cells,blood
+CD19,B cells,blood
+ABCB4,B cells,blood
+KIAA0125,B cells,blood
 QRSL1,B cells,blood
-QSOX2,B cells,blood
+CD72,B cells,blood
+STAP1,B cells,blood
+PNOC,B cells,blood
 RAB30,B cells,blood
 RALGPS2,B cells,blood
-SCN3A,B cells,blood
-SNX22,B cells,blood
-SNX29P1,B cells,blood
-SPIB,B cells,blood
-STAP1,B cells,blood
-STRBP,B cells,blood
-SWAP70,B cells,blood
-TCF4,B cells,blood
+CR2,B cells,blood
 TCL1A,B cells,blood
-TPD52,B cells,blood
 TSPAN13,B cells,blood
-VPREB3,B cells,blood
-ZDHHC23,B cells,blood
-ANLN,Cell Cycle,blood
-ASPM,Cell Cycle,blood
-AURKA,Cell Cycle,blood
-AURKB,Cell Cycle,blood
-BIRC5,Cell Cycle,blood
-BUB1,Cell Cycle,blood
-BUB1B,Cell Cycle,blood
-CASC5,Cell Cycle,blood
-CCNA2,Cell Cycle,blood
-CCNB1,Cell Cycle,blood
-CCNB2,Cell Cycle,blood
-CCNE2,Cell Cycle,blood
-CDC20,Cell Cycle,blood
-CDC6,Cell Cycle,blood
-CDCA2,Cell Cycle,blood
-CDCA3,Cell Cycle,blood
-CDCA5,Cell Cycle,blood
-CDCA7,Cell Cycle,blood
-CDCA8,Cell Cycle,blood
-CDK1,Cell Cycle,blood
-CDKN3,Cell Cycle,blood
-CDT1,Cell Cycle,blood
-CENPA,Cell Cycle,blood
-CENPE,Cell Cycle,blood
-CENPF,Cell Cycle,blood
-CENPL,Cell Cycle,blood
-CEP55,Cell Cycle,blood
-CKS1B,Cell Cycle,blood
-DEPDC1,Cell Cycle,blood
-DEPDC1B,Cell Cycle,blood
-DLGAP5,Cell Cycle,blood
-DONSON,Cell Cycle,blood
-DTL,Cell Cycle,blood
-E2F8,Cell Cycle,blood
-ECT2,Cell Cycle,blood
-EZH2,Cell Cycle,blood
-FAM72C,Cell Cycle,blood
-FANCI,Cell Cycle,blood
-FBXO5,Cell Cycle,blood
-FOXM1,Cell Cycle,blood
-GINS1,Cell Cycle,blood
-GINS2,Cell Cycle,blood
-GMNN,Cell Cycle,blood
-HJURP,Cell Cycle,blood
-HMGB3,Cell Cycle,blood
-HMMR,Cell Cycle,blood
-KIAA0101,Cell Cycle,blood
-KIF11,Cell Cycle,blood
-KIF14,Cell Cycle,blood
-KIF15,Cell Cycle,blood
-KIF18B,Cell Cycle,blood
-KIF20A,Cell Cycle,blood
-KIF2C,Cell Cycle,blood
-KIF4A,Cell Cycle,blood
-MAD2L1,Cell Cycle,blood
-MCM10,Cell Cycle,blood
-MCM2,Cell Cycle,blood
-MCM4,Cell Cycle,blood
-MCM6,Cell Cycle,blood
-MELK,Cell Cycle,blood
-MKI67,Cell Cycle,blood
-MND1,Cell Cycle,blood
-MTFR2,Cell Cycle,blood
-NCAPG,Cell Cycle,blood
-NCAPG2,Cell Cycle,blood
-NDC80,Cell Cycle,blood
-NEK2,Cell Cycle,blood
-NUF2,Cell Cycle,blood
-NUSAP1,Cell Cycle,blood
-OIP5,Cell Cycle,blood
-PARPBP,Cell Cycle,blood
-PBK,Cell Cycle,blood
-PCNA,Cell Cycle,blood
-PLK4,Cell Cycle,blood
-POLE2,Cell Cycle,blood
-POLQ,Cell Cycle,blood
+FCRLA,B cells,blood
+BANK1,B cells,blood
+E2F5,B cells,blood
+AFF3,B cells,blood
+EBF1,B cells,blood
+HLA-DOB,B cells,blood
+MS4A1,B cells,blood
+TLR10,B cells,blood
+CDCA7L,B cells,blood
+KLHL14,B cells,blood
+ADAM28,B cells,blood
+OSBPL10,B cells,blood
+SNX29P1,B cells,blood
+FCRL1,B cells,blood
+NT5E,B cells,blood
+TCF4,B cells,blood
+GNG7,B cells,blood
+CD79A,B cells,blood
+MACROD2,B cells,blood
+PTPRK,B cells,blood
+CD200,B cells,blood
+SPIB,B cells,blood
+CCR6,B cells,blood
+LINC00926,B cells,blood
 PTTG1,Cell Cycle,blood
-RACGAP1,Cell Cycle,blood
-RAD51,Cell Cycle,blood
+PLK4,Cell Cycle,blood
 RAD51AP1,Cell Cycle,blood
-RRM1,Cell Cycle,blood
-RRM2,Cell Cycle,blood
-SHCBP1,Cell Cycle,blood
-SKA1,Cell Cycle,blood
-SMC2,Cell Cycle,blood
-SPC25,Cell Cycle,blood
-STIL,Cell Cycle,blood
-STMN1,Cell Cycle,blood
-TCF19,Cell Cycle,blood
-TK1,Cell Cycle,blood
-TOP2A,Cell Cycle,blood
+CENPE,Cell Cycle,blood
+CDC20,Cell Cycle,blood
+CEP55,Cell Cycle,blood
+CASC5,Cell Cycle,blood
+DLGAP5,Cell Cycle,blood
+NUF2,Cell Cycle,blood
+HMMR,Cell Cycle,blood
+CCNB1,Cell Cycle,blood
+DEPDC1B,Cell Cycle,blood
+CDK1,Cell Cycle,blood
 TPX2,Cell Cycle,blood
-TRIP13,Cell Cycle,blood
-TTK,Cell Cycle,blood
-TYMS,Cell Cycle,blood
-UBE2C,Cell Cycle,blood
-UHRF1,Cell Cycle,blood
-ZWILCH,Cell Cycle,blood
+RRM2,Cell Cycle,blood
+CCNB2,Cell Cycle,blood
+PCNA,Cell Cycle,blood
+GMNN,Cell Cycle,blood
+ASPM,Cell Cycle,blood
+CENPF,Cell Cycle,blood
+KIF15,Cell Cycle,blood
+E2F8,Cell Cycle,blood
+MCM4,Cell Cycle,blood
+AURKA,Cell Cycle,blood
+KIF14,Cell Cycle,blood
+GINS1,Cell Cycle,blood
+RACGAP1,Cell Cycle,blood
+DTL,Cell Cycle,blood
 ZWINT,Cell Cycle,blood
-APOL1,IFN,blood
-APOL6,IFN,blood
-BATF2,IFN,blood
-BST2,IFN,blood
-C18orf49,IFN,blood
-C19orf66,IFN,blood
-C5orf56,IFN,blood
-CMPK2,IFN,blood
-CMTR1,IFN,blood
-DDX58,IFN,blood
-DDX60,IFN,blood
-DHX58,IFN,blood
-DTX3L,IFN,blood
-EIF2AK2,IFN,blood
-EPSTI1,IFN,blood
-FBXO6,IFN,blood
-GBP1,IFN,blood
-GBP4,IFN,blood
-HELZ2,IFN,blood
-HERC5,IFN,blood
-HERC6,IFN,blood
-HESX1,IFN,blood
-HSH2D,IFN,blood
-IFI16,IFN,blood
-IFI35,IFN,blood
-IFI44,IFN,blood
-IFI44L,IFN,blood
-IFI6,IFN,blood
-IFIH1,IFN,blood
-IFIT1,IFN,blood
-IFIT2,IFN,blood
-IFIT3,IFN,blood
-IFIT5,IFN,blood
-IFITM1,IFN,blood
-IRF7,IFN,blood
-IRF9,IFN,blood
-ISG15,IFN,blood
-LAMP3,IFN,blood
-LAP3,IFN,blood
-LGALS3BP,IFN,blood
-LY6E,IFN,blood
-MOV10,IFN,blood
-MVB12A,IFN,blood
-MX1,IFN,blood
-MX2,IFN,blood
-OAS1,IFN,blood
-OAS2,IFN,blood
-OAS3,IFN,blood
-OASL,IFN,blood
-PARP10,IFN,blood
-PARP12,IFN,blood
-PARP14,IFN,blood
-PARP9,IFN,blood
-PHF11,IFN,blood
-PML,IFN,blood
-PNPT1,IFN,blood
-PSMB9,IFN,blood
-RNF213,IFN,blood
-RSAD2,IFN,blood
-RTP4,IFN,blood
-SAMD9,IFN,blood
-SAMD9L,IFN,blood
-SERPING1,IFN,blood
-SHISA5,IFN,blood
+BUB1B,Cell Cycle,blood
+TYMS,Cell Cycle,blood
+KIAA0101,Cell Cycle,blood
+NUSAP1,Cell Cycle,blood
+KIF11,Cell Cycle,blood
+PBK,Cell Cycle,blood
+PARPBP,Cell Cycle,blood
+GINS2,Cell Cycle,blood
+FAM72C,Cell Cycle,blood
+FBXO5,Cell Cycle,blood
+MAD2L1,Cell Cycle,blood
+CCNE2,Cell Cycle,blood
+CDCA7,Cell Cycle,blood
+EZH2,Cell Cycle,blood
+CDCA2,Cell Cycle,blood
+HJURP,Cell Cycle,blood
+ANLN,Cell Cycle,blood
+TK1,Cell Cycle,blood
+TTK,Cell Cycle,blood
+KIF20A,Cell Cycle,blood
+STIL,Cell Cycle,blood
+CDC6,Cell Cycle,blood
+MCM2,Cell Cycle,blood
+BUB1,Cell Cycle,blood
+NDC80,Cell Cycle,blood
+RAD51,Cell Cycle,blood
+TOP2A,Cell Cycle,blood
+CDKN3,Cell Cycle,blood
+OIP5,Cell Cycle,blood
+KIF4A,Cell Cycle,blood
+NEK2,Cell Cycle,blood
+UHRF1,Cell Cycle,blood
+CCNA2,Cell Cycle,blood
+MELK,Cell Cycle,blood
 SIGLEC1,IFN,blood
-SP110,IFN,blood
-SPATS2L,IFN,blood
-STAT1,IFN,blood
-STAT2,IFN,blood
-TAP1,IFN,blood
-TDRD7,IFN,blood
-TNFSF10,IFN,blood
-TOR1B,IFN,blood
-TRAFD1,IFN,blood
-TRIM21,IFN,blood
-TRIM22,IFN,blood
-TRIM38,IFN,blood
-TRIM5,IFN,blood
-TRIM6,IFN,blood
-UBE2L6,IFN,blood
+LGALS3BP,IFN,blood
+LAP3,IFN,blood
+BATF2,IFN,blood
 USP18,IFN,blood
+SP110,IFN,blood
+LY6E,IFN,blood
+DHX58,IFN,blood
+SERPING1,IFN,blood
+IFI44,IFN,blood
+DDX58,IFN,blood
+IFIT1,IFN,blood
+TAP1,IFN,blood
+PML,IFN,blood
+TOR1B,IFN,blood
+IRF9,IFN,blood
+CMPK2,IFN,blood
+PARP9,IFN,blood
+STAT1,IFN,blood
+OAS1,IFN,blood
+FBXO6,IFN,blood
+EIF2AK2,IFN,blood
+SPATS2L,IFN,blood
+OAS2,IFN,blood
+BST2,IFN,blood
+MX2,IFN,blood
+IFI6,IFN,blood
+SAMD9L,IFN,blood
+IFI35,IFN,blood
+PARP14,IFN,blood
+DDX60,IFN,blood
+MX1,IFN,blood
+UBE2L6,IFN,blood
+PARP12,IFN,blood
+STAT2,IFN,blood
+OAS3,IFN,blood
+RSAD2,IFN,blood
+DTX3L,IFN,blood
+HERC5,IFN,blood
+EPSTI1,IFN,blood
+IFI44L,IFN,blood
+IFIT3,IFN,blood
+IRF7,IFN,blood
 XAF1,IFN,blood
-ZBP1,IFN,blood
-ZCCHC2,IFN,blood
+HELZ2,IFN,blood
+TRIM6,IFN,blood
+TNFSF10,IFN,blood
+GBP4,IFN,blood
+HESX1,IFN,blood
 ZNFX1,IFN,blood
-ADAMDEC1,Macrophages/Dendritic cells,blood
-ADORA3,Macrophages/Dendritic cells,blood
-AOAH,Macrophages/Dendritic cells,blood
-ARRB2,Macrophages/Dendritic cells,blood
-ATP8B4,Macrophages/Dendritic cells,blood
-BCL2A1,Macrophages/Dendritic cells,blood
-C1orf54,Macrophages/Dendritic cells,blood
-C1QA,Macrophages/Dendritic cells,blood
-C1QB,Macrophages/Dendritic cells,blood
-C2,Macrophages/Dendritic cells,blood
-C3AR1,Macrophages/Dendritic cells,blood
-C5AR1,Macrophages/Dendritic cells,blood
-CCR1,Macrophages/Dendritic cells,blood
-CCRL2,Macrophages/Dendritic cells,blood
-CD163,Macrophages/Dendritic cells,blood
-CD300A,Macrophages/Dendritic cells,blood
-CD4,Macrophages/Dendritic cells,blood
-CD68,Macrophages/Dendritic cells,blood
-CD74,Macrophages/Dendritic cells,blood
-CD86,Macrophages/Dendritic cells,blood
-CECR1,Macrophages/Dendritic cells,blood
-CLEC7A,Macrophages/Dendritic cells,blood
-CMKLR1,Macrophages/Dendritic cells,blood
-CSF1R,Macrophages/Dendritic cells,blood
-CSF2RB,Macrophages/Dendritic cells,blood
-CTSB,Macrophages/Dendritic cells,blood
-CTSS,Macrophages/Dendritic cells,blood
-CYBB,Macrophages/Dendritic cells,blood
-CYTH4,Macrophages/Dendritic cells,blood
-DPYD,Macrophages/Dendritic cells,blood
-EMR2,Macrophages/Dendritic cells,blood
-FCER1G,Macrophages/Dendritic cells,blood
-FCGR1A,Macrophages/Dendritic cells,blood
-FCGR1B,Macrophages/Dendritic cells,blood
-FCGR2A,Macrophages/Dendritic cells,blood
-FCGR3B,Macrophages/Dendritic cells,blood
-FPR3,Macrophages/Dendritic cells,blood
-GPNMB,Macrophages/Dendritic cells,blood
-HK3,Macrophages/Dendritic cells,blood
-HLA-DRB6,Macrophages/Dendritic cells,blood
-IFI30,Macrophages/Dendritic cells,blood
-IGSF6,Macrophages/Dendritic cells,blood
-ITGAM,Macrophages/Dendritic cells,blood
-ITGAX,Macrophages/Dendritic cells,blood
-ITGB2,Macrophages/Dendritic cells,blood
-LAIR1,Macrophages/Dendritic cells,blood
-LAPTM5,Macrophages/Dendritic cells,blood
-LILRB4,Macrophages/Dendritic cells,blood
-LIPA,Macrophages/Dendritic cells,blood
-LY96,Macrophages/Dendritic cells,blood
-MAFB,Macrophages/Dendritic cells,blood
-MAN2B1,Macrophages/Dendritic cells,blood
-MFSD1,Macrophages/Dendritic cells,blood
-MNDA,Macrophages/Dendritic cells,blood
-MS4A4A,Macrophages/Dendritic cells,blood
-MS4A6A,Macrophages/Dendritic cells,blood
-MS4A7,Macrophages/Dendritic cells,blood
-MSR1,Macrophages/Dendritic cells,blood
-MYO1F,Macrophages/Dendritic cells,blood
-NCF2,Macrophages/Dendritic cells,blood
-NCKAP1L,Macrophages/Dendritic cells,blood
-NPL,Macrophages/Dendritic cells,blood
-NR1H3,Macrophages/Dendritic cells,blood
-P2RY13,Macrophages/Dendritic cells,blood
-PLA2G7,Macrophages/Dendritic cells,blood
-PLEKHO2,Macrophages/Dendritic cells,blood
-SCPEP1,Macrophages/Dendritic cells,blood
-SLAMF8,Macrophages/Dendritic cells,blood
-SLC15A3,Macrophages/Dendritic cells,blood
-SLC31A2,Macrophages/Dendritic cells,blood
-SLCO2B1,Macrophages/Dendritic cells,blood
-SNX10,Macrophages/Dendritic cells,blood
-SPI1,Macrophages/Dendritic cells,blood
-TBXAS1,Macrophages/Dendritic cells,blood
-TLR8,Macrophages/Dendritic cells,blood
-TMEM140,Macrophages/Dendritic cells,blood
-TNFAIP2,Macrophages/Dendritic cells,blood
-TNFRSF1B,Macrophages/Dendritic cells,blood
-TNFSF13B,Macrophages/Dendritic cells,blood
-TRPV2,Macrophages/Dendritic cells,blood
-TYMP,Macrophages/Dendritic cells,blood
-TYROBP,Macrophages/Dendritic cells,blood
-VSIG4,Macrophages/Dendritic cells,blood
-AGTRAP,Monocytes,blood
-AIF1,Monocytes,blood
-ALDH2,Monocytes,blood
-APLP2,Monocytes,blood
-ASGR1,Monocytes,blood
-ATP6V0D1,Monocytes,blood
-C10orf54,Monocytes,blood
-CD14,Monocytes,blood
-CD300LF,Monocytes,blood
-CD33,Monocytes,blood
-CD93,Monocytes,blood
+APOL1,IFN,blood
+SAMD9,IFN,blood
+HERC6,IFN,blood
+APOL6,IFN,blood
+TRIM22,IFN,blood
+GBP1,IFN,blood
+TDRD7,IFN,blood
+ISG15,IFN,blood
+OASL,IFN,blood
+IFI16,IFN,blood
+TRAFD1,IFN,blood
+RNF213,IFN,blood
+TRIM5,IFN,blood
+IFIT2,IFN,blood
+IFIH1,IFN,blood
+CMTR1,IFN,blood
+PHF11,IFN,blood
+MOV10,IFN,blood
+RTP4,IFN,blood
+NLRC4,Monocytes,blood
 CFP,Monocytes,blood
-CTNNA1,Monocytes,blood
-CTSD,Monocytes,blood
-CYFIP1,Monocytes,blood
-EMILIN2,Monocytes,blood
-FCGRT,Monocytes,blood
-FCN1,Monocytes,blood
-FES,Monocytes,blood
-FGR,Monocytes,blood
-GLB1,Monocytes,blood
-GNS,Monocytes,blood
-GRN,Monocytes,blood
-HCK,Monocytes,blood
-HMOX1,Monocytes,blood
-HPSE,Monocytes,blood
-IMPDH1,Monocytes,blood
-KIAA0513,Monocytes,blood
-KIAA0930,Monocytes,blood
-LILRA1,Monocytes,blood
-LILRA6,Monocytes,blood
-LILRB2,Monocytes,blood
-LILRB3,Monocytes,blood
-LRRC25,Monocytes,blood
-LST1,Monocytes,blood
-MAML3,Monocytes,blood
-MYD88,Monocytes,blood
-NAGA,Monocytes,blood
-NFAM1,Monocytes,blood
-NOTCH2,Monocytes,blood
-PAK1,Monocytes,blood
-PFKFB4,Monocytes,blood
-PGD,Monocytes,blood
-PILRA,Monocytes,blood
-PLBD1,Monocytes,blood
-PLXDC2,Monocytes,blood
-PLXNB2,Monocytes,blood
-PRAM1,Monocytes,blood
-PRKCD,Monocytes,blood
-PSAP,Monocytes,blood
-PYCARD,Monocytes,blood
-RHOG,Monocytes,blood
-RNF135,Monocytes,blood
-RXRA,Monocytes,blood
-SERPINA1,Monocytes,blood
-SLC7A7,Monocytes,blood
-TGFBI,Monocytes,blood
-THEMIS2,Monocytes,blood
-TIMP2,Monocytes,blood
-TKT,Monocytes,blood
-TLR5,Monocytes,blood
-TNS3,Monocytes,blood
-TPP1,Monocytes,blood
+CD1D,Monocytes,blood
+DMXL2,Monocytes,blood
 VCAN,Monocytes,blood
-ZSWIM6,Monocytes,blood
-ABHD5,Neutrophils,blood
-ACOX1,Neutrophils,blood
-ACSL1,Neutrophils,blood
-AGO4,Neutrophils,blood
-ALPK1,Neutrophils,blood
-ALPL,Neutrophils,blood
-APOBR,Neutrophils,blood
-AQP9,Neutrophils,blood
-ARHGAP27,Neutrophils,blood
-BASP1,Neutrophils,blood
-BCL6,Neutrophils,blood
-C3orf62,Neutrophils,blood
-CANT1,Neutrophils,blood
-CCNJL,Neutrophils,blood
-CD97,Neutrophils,blood
-CEACAM4,Neutrophils,blood
-CEP19,Neutrophils,blood
-CFLAR,Neutrophils,blood
-CHIC2,Neutrophils,blood
-CPD,Neutrophils,blood
-CPQ,Neutrophils,blood
-CSF3R,Neutrophils,blood
-CTBS,Neutrophils,blood
-CXCR1,Neutrophils,blood
-CXCR2,Neutrophils,blood
-DENND3,Neutrophils,blood
-DENND5A,Neutrophils,blood
-DGAT2,Neutrophils,blood
-DHRS13,Neutrophils,blood
-DOCK5,Neutrophils,blood
-DOK3,Neutrophils,blood
+CD302,Monocytes,blood
+LILRA1,Monocytes,blood
+CPVL,Monocytes,blood
+FAM198B,Monocytes,blood
+ANKRD50,Monocytes,blood
+SLC7A7,Monocytes,blood
+KCTD12,Monocytes,blood
+CD33,Monocytes,blood
+S100Z,Monocytes,blood
+LDLRAD3,Monocytes,blood
+PLXNB2,Monocytes,blood
+SLC24A4,Monocytes,blood
+IRAK3,Monocytes,blood
+KDM1B,Monocytes,blood
+FBN2,Monocytes,blood
+TMEM170B,Monocytes,blood
+CD93,Monocytes,blood
+CSTA,Monocytes,blood
+AIF1,Monocytes,blood
+EPB41L3,Monocytes,blood
+CALML4,Monocytes,blood
+ASGR1,Monocytes,blood
+CD36,Monocytes,blood
+CD14,Monocytes,blood
+MBOAT7,Neutrophils,blood
 DYSF,Neutrophils,blood
-FAM129A,Neutrophils,blood
-FAM53C,Neutrophils,blood
-FAM65B,Neutrophils,blood
-FLOT1,Neutrophils,blood
-FLOT2,Neutrophils,blood
-FNIP1,Neutrophils,blood
-FPR1,Neutrophils,blood
-FRAT1,Neutrophils,blood
-FRAT2,Neutrophils,blood
-GLT1D1,Neutrophils,blood
-GPR27,Neutrophils,blood
-GPR97,Neutrophils,blood
-H3F3A,Neutrophils,blood
-H3F3B,Neutrophils,blood
-HCLS1,Neutrophils,blood
-IFITM2,Neutrophils,blood
-IGF1R,Neutrophils,blood
-IGF2R,Neutrophils,blood
-IL17RA,Neutrophils,blood
-IQSEC1,Neutrophils,blood
-ITPRIP,Neutrophils,blood
-KCNJ2,Neutrophils,blood
-KIAA0247,Neutrophils,blood
-LIMK2,Neutrophils,blood
-LINC01000,Neutrophils,blood
-LINC01002,Neutrophils,blood
-LRG1,Neutrophils,blood
-LRP10,Neutrophils,blood
-LYN,Neutrophils,blood
-MANSC1,Neutrophils,blood
-MAPK14,Neutrophils,blood
-MBOAT2,Neutrophils,blood
-MGAM,Neutrophils,blood
-MMP25,Neutrophils,blood
-MOB3A,Neutrophils,blood
-MSRB1,Neutrophils,blood
-MTMR3,Neutrophils,blood
-MXD1,Neutrophils,blood
-NADK,Neutrophils,blood
-NAMPT,Neutrophils,blood
-NCF4,Neutrophils,blood
-NDEL1,Neutrophils,blood
-NFIL3,Neutrophils,blood
-NRBF2,Neutrophils,blood
-NSUN7,Neutrophils,blood
-OSBPL2,Neutrophils,blood
-PACSIN2,Neutrophils,blood
-PADI2,Neutrophils,blood
-PGS1,Neutrophils,blood
+STEAP4,Neutrophils,blood
 PHC2,Neutrophils,blood
-PHF21A,Neutrophils,blood
-PLXNC1,Neutrophils,blood
-PPP1R3B,Neutrophils,blood
-PREX1,Neutrophils,blood
-PXN,Neutrophils,blood
-PYGL,Neutrophils,blood
-RAB3D,Neutrophils,blood
-RALB,Neutrophils,blood
-RALGAPA2,Neutrophils,blood
-RFWD2,Neutrophils,blood
-RNF13,Neutrophils,blood
-RNF149,Neutrophils,blood
-S100A8,Neutrophils,blood
-S100A9,Neutrophils,blood
-SHKBP1,Neutrophils,blood
-SIRPB1,Neutrophils,blood
-SLC11A1,Neutrophils,blood
-SLC12A6,Neutrophils,blood
-SLC19A1,Neutrophils,blood
-SLC25A44,Neutrophils,blood
-SLC6A6,Neutrophils,blood
-SLCO3A1,Neutrophils,blood
-SNORD89,Neutrophils,blood
-SORL1,Neutrophils,blood
-SOS2,Neutrophils,blood
-SSH2,Neutrophils,blood
-ST3GAL4-AS1,Neutrophils,blood
-STAT3,Neutrophils,blood
-STAT5B,Neutrophils,blood
+LIN7A,Neutrophils,blood
+LIMK2,Neutrophils,blood
+CREB5,Neutrophils,blood
+FPR2,Neutrophils,blood
+VNN2,Neutrophils,blood
+ABHD5,Neutrophils,blood
+MANSC1,Neutrophils,blood
+NCF4,Neutrophils,blood
+GLT1D1,Neutrophils,blood
 STX3,Neutrophils,blood
-STXBP5,Neutrophils,blood
-SULT1B1,Neutrophils,blood
-TECPR2,Neutrophils,blood
-TLE3,Neutrophils,blood
-TLR2,Neutrophils,blood
-TLR4,Neutrophils,blood
-TMCC3,Neutrophils,blood
-TMEM120A,Neutrophils,blood
-TMEM154,Neutrophils,blood
-TNFRSF10C,Neutrophils,blood
-TNFRSF1A,Neutrophils,blood
-TREML2,Neutrophils,blood
-TRIM25,Neutrophils,blood
-TSEN34,Neutrophils,blood
-UBE2R2,Neutrophils,blood
-UBXN2B,Neutrophils,blood
-VPS8,Neutrophils,blood
-WDFY3,Neutrophils,blood
-WIPF2,Neutrophils,blood
-XPO6,Neutrophils,blood
-ZBTB34,Neutrophils,blood
-ZNF467,Neutrophils,blood
-ZNF746,Neutrophils,blood
-B3GAT1,NK cells,blood
-C1orf21,NK cells,blood
-CCL5,NK cells,blood
-CD160,NK cells,blood
-CEP78,NK cells,blood
-CHST12,NK cells,blood
-CLIC3,NK cells,blood
-CST7,NK cells,blood
-ENPP5,NK cells,blood
-ERBB2,NK cells,blood
-FASLG,NK cells,blood
-FEZ1,NK cells,blood
-FGFBP2,NK cells,blood
-GNLY,NK cells,blood
-GPR56,NK cells,blood
-GTF3C1,NK cells,blood
+FPR1,Neutrophils,blood
+FRAT2,Neutrophils,blood
+CLEC4E,Neutrophils,blood
+CRISPLD2,Neutrophils,blood
+CPPED1,Neutrophils,blood
+NFE2,Neutrophils,blood
+MRVI1,Neutrophils,blood
+REPS2,Neutrophils,blood
+DGAT2,Neutrophils,blood
+CSF3R,Neutrophils,blood
+P2RY13,Neutrophils,blood
+GPR97,Neutrophils,blood
+CXCR2,Neutrophils,blood
+KCNJ15,Neutrophils,blood
+SLC22A4,Neutrophils,blood
+MMP25,Neutrophils,blood
+LRRC4,Neutrophils,blood
+MSRB1,Neutrophils,blood
+CXCR1,Neutrophils,blood
+MATK,NK cells,blood
+YPEL1,NK cells,blood
 GZMA,NK cells,blood
-GZMB,NK cells,blood
-GZMH,NK cells,blood
-GZMM,NK cells,blood
-HOPX,NK cells,blood
-IL2RB,NK cells,blood
-KIR2DL1,NK cells,blood
-KIR2DL2,NK cells,blood
-KIR2DL3,NK cells,blood
-KIR2DL5A,NK cells,blood
-KIR2DS1,NK cells,blood
-KIR2DS2,NK cells,blood
-KIR2DS3,NK cells,blood
-KIR2DS5,NK cells,blood
-KIR3DL1,NK cells,blood
-KIR3DL2,NK cells,blood
-KIR3DL3,NK cells,blood
-KIR3DS1,NK cells,blood
-KLRC2,NK cells,blood
-KLRC3,NK cells,blood
-KLRC4,NK cells,blood
-KLRC4-KLRK1,NK cells,blood
+ENPP5,NK cells,blood
+C1orf21,NK cells,blood
+PTGDR,NK cells,blood
+MYBL1,NK cells,blood
+CD247,NK cells,blood
+PDGFD,NK cells,blood
+PRSS23,NK cells,blood
+TOX,NK cells,blood
+GNLY,NK cells,blood
+FGFBP2,NK cells,blood
+CD160,NK cells,blood
+PRF1,NK cells,blood
+S1PR5,NK cells,blood
+TBX21,NK cells,blood
 KLRD1,NK cells,blood
 KLRF1,NK cells,blood
-KLRK1,NK cells,blood
-LGR6,NK cells,blood
-LOC100505501,NK cells,blood
-MATK,NK cells,blood
-NKG7,NK cells,blood
-PDGFD,NK cells,blood
-PHLDB2,NK cells,blood
-PPP2R2B,NK cells,blood
-PRF1,NK cells,blood
-PRSS23,NK cells,blood
-PTCH1,NK cells,blood
-PTGDR,NK cells,blood
-PYHIN1,NK cells,blood
-RUNX3,NK cells,blood
-S1PR5,NK cells,blood
-SAMD3,NK cells,blood
-SH2D1B,NK cells,blood
-SPON2,NK cells,blood
-STAT4,NK cells,blood
-STK39,NK cells,blood
-SYT11,NK cells,blood
-TBC1D31,NK cells,blood
-TBX21,NK cells,blood
+GPR56,NK cells,blood
 TGFBR3,NK cells,blood
-TTC38,NK cells,blood
-XCL1,NK cells,blood
-XCL2,NK cells,blood
-GUSBP11,Plasma cells,blood
-IGH,Plasma cells,blood
-IGHG3,Plasma cells,blood
-IGJ,Plasma cells,blood
+IL2RB,NK cells,blood
+SPON2,NK cells,blood
+SAMD3,NK cells,blood
+GZMB,NK cells,blood
+GZMH,NK cells,blood
+PTPN4,NK cells,blood
+KLRC4-KLRK1,NK cells,blood
+CTSW,NK cells,blood
+HOPX,NK cells,blood
+LOC100505501,NK cells,blood
+PHLDB2,NK cells,blood
+KLRK1,NK cells,blood
+CEP78,NK cells,blood
+PYHIN1,NK cells,blood
+ALG14,Plasma cells,blood
+TRAM2,Plasma cells,blood
 IGKC,Plasma cells,blood
-IGKV1D-13,Plasma cells,blood
+ITM2C,Plasma cells,blood
+SPATS2,Plasma cells,blood
 IGLC1,Plasma cells,blood
-IGLJ3,Plasma cells,blood
-IGLL3P,Plasma cells,blood
-IGLV@,Plasma cells,blood
-IGLV1-44,Plasma cells,blood
+PRDX4,Plasma cells,blood
+CEP128,Plasma cells,blood
+CD38,Plasma cells,blood
 MZB1,Plasma cells,blood
+IGJ,Plasma cells,blood
+PDIA5,Plasma cells,blood
+SEC11C,Plasma cells,blood
 TNFRSF17,Plasma cells,blood
+IGHD,Plasma cells,blood
+EAF2,Plasma cells,blood
+IGHA1,Plasma cells,blood
+MYO1D,Plasma cells,blood
+IGHM,Plasma cells,blood
+IGKV1D-13,Plasma cells,blood
+IGLV1-44,Plasma cells,blood
+GLCCI1,Plasma cells,blood
+IGLL3P,Plasma cells,blood
+GUSBP11,Plasma cells,blood
+IGHG3,Plasma cells,blood
+PPAPDC1B,Plasma cells,blood
+IGLV@,Plasma cells,blood
+IGLJ3,Plasma cells,blood
 TXNDC5,Plasma cells,blood
-ABLIM3,Platelets,blood
-ACRBP,Platelets,blood
-ALOX12,Platelets,blood
-AQP10,Platelets,blood
-ARHGAP6,Platelets,blood
-BEND2,Platelets,blood
-C19orf33,Platelets,blood
-C1orf198,Platelets,blood
-CALD1,Platelets,blood
-CLEC1B,Platelets,blood
-CLU,Platelets,blood
-CMTM5,Platelets,blood
-CTDSPL,Platelets,blood
-DNM3,Platelets,blood
-EGF,Platelets,blood
-ELOVL7,Platelets,blood
-ENDOD1,Platelets,blood
-GFI1B,Platelets,blood
-GNAZ,Platelets,blood
-GNG11,Platelets,blood
-GP1BA,Platelets,blood
-GP1BB,Platelets,blood
-GP6,Platelets,blood
+TPD52,Plasma cells,blood
 GUCY1A3,Platelets,blood
-GUCY1B3,Platelets,blood
-ITGA2B,Platelets,blood
-ITGB3,Platelets,blood
-LOC100130938,Platelets,blood
-LTBP1,Platelets,blood
-LY6G6D,Platelets,blood
-MFAP3L,Platelets,blood
-MMD,Platelets,blood
-MMRN1,Platelets,blood
-MPL,Platelets,blood
-MTURN,Platelets,blood
-MYL9,Platelets,blood
-MYLK,Platelets,blood
-NRGN,Platelets,blood
-PCSK6,Platelets,blood
-PDGFA,Platelets,blood
-PEAR1,Platelets,blood
-PF4,Platelets,blood
-PGRMC1,Platelets,blood
-PPBP,Platelets,blood
-PRKAR2B,Platelets,blood
+BEND2,Platelets,blood
 PROS1,Platelets,blood
-PRTFDC1,Platelets,blood
-RAB27B,Platelets,blood
-RHOBTB1,Platelets,blood
-SDPR,Platelets,blood
-SEC14L5,Platelets,blood
-SELP,Platelets,blood
-SH3BGRL2,Platelets,blood
 SLC24A3,Platelets,blood
-SPX,Platelets,blood
-STON2,Platelets,blood
-TBXA2R,Platelets,blood
-TDRP,Platelets,blood
-TGFB1I1,Platelets,blood
-TMEM40,Platelets,blood
-TRBV27,Platelets,blood
-TREML1,Platelets,blood
-TUBB1,Platelets,blood
+SELP,Platelets,blood
+ENDOD1,Platelets,blood
+FHL1,Platelets,blood
+EGF,Platelets,blood
+CLEC1B,Platelets,blood
+MMRN1,Platelets,blood
 WASF3,Platelets,blood
-EEF1A1,Ribosomes,blood
-EEF1B2,Ribosomes,blood
-EEF1D,Ribosomes,blood
-EEF1G,Ribosomes,blood
-EIF3D,Ribosomes,blood
-EIF3E,Ribosomes,blood
-EIF3F,Ribosomes,blood
+PEAR1,Platelets,blood
+TNFSF4,Platelets,blood
+ITGB5,Platelets,blood
+CTTN,Platelets,blood
+ASAP2,Platelets,blood
+RHOBTB1,Platelets,blood
+PTGS1,Platelets,blood
+ALOX12,Platelets,blood
+SPX,Platelets,blood
+DNM3,Platelets,blood
+MYLK,Platelets,blood
+LTBP1,Platelets,blood
+PDE5A,Platelets,blood
+MFAP3L,Platelets,blood
+CTDSPL,Platelets,blood
+GUCY1B3,Platelets,blood
+SH3BGRL2,Platelets,blood
+TDRP,Platelets,blood
+JAM3,Platelets,blood
+PLOD2,Platelets,blood
+TGFB1I1,Platelets,blood
+ABLIM3,Platelets,blood
+TRBV27,Platelets,blood
+CALD1,Platelets,blood
+GNAZ,Platelets,blood
+STON2,Platelets,blood
+PCSK6,Platelets,blood
+ELOVL7,Platelets,blood
+LOC100130938,Platelets,blood
+PRTFDC1,Platelets,blood
+ARHGAP6,Platelets,blood
 EIF3G,Ribosomes,blood
-EIF3H,Ribosomes,blood
-EIF3K,Ribosomes,blood
-FAU,Ribosomes,blood
-GNB2L1,Ribosomes,blood
-NACA,Ribosomes,blood
-PFDN5,Ribosomes,blood
-RPL10,Ribosomes,blood
-RPL10L,Ribosomes,blood
-RPL11,Ribosomes,blood
-RPL12,Ribosomes,blood
-RPL13,Ribosomes,blood
-RPL13A,Ribosomes,blood
-RPL14,Ribosomes,blood
-RPL15,Ribosomes,blood
-RPL17,Ribosomes,blood
-RPL18,Ribosomes,blood
-RPL18A,Ribosomes,blood
-RPL19,Ribosomes,blood
-RPL21,Ribosomes,blood
-RPL22,Ribosomes,blood
-RPL23,Ribosomes,blood
-RPL23A,Ribosomes,blood
-RPL24,Ribosomes,blood
-RPL27,Ribosomes,blood
-RPL27A,Ribosomes,blood
-RPL28,Ribosomes,blood
-RPL29,Ribosomes,blood
-RPL3,Ribosomes,blood
-RPL30,Ribosomes,blood
-RPL31,Ribosomes,blood
-RPL32,Ribosomes,blood
-RPL34,Ribosomes,blood
-RPL35,Ribosomes,blood
-RPL35A,Ribosomes,blood
 RPL36A,Ribosomes,blood
-RPL37,Ribosomes,blood
-RPL37A,Ribosomes,blood
-RPL38,Ribosomes,blood
-RPL39,Ribosomes,blood
-RPL4,Ribosomes,blood
-RPL5,Ribosomes,blood
-RPL6,Ribosomes,blood
-RPL7,Ribosomes,blood
-RPL7A,Ribosomes,blood
-RPL8,Ribosomes,blood
-RPL9,Ribosomes,blood
-RPLP0,Ribosomes,blood
-RPLP2,Ribosomes,blood
-RPS10,Ribosomes,blood
-RPS11,Ribosomes,blood
-RPS13,Ribosomes,blood
-RPS14,Ribosomes,blood
-RPS15,Ribosomes,blood
-RPS15A,Ribosomes,blood
-RPS16,Ribosomes,blood
-RPS17,Ribosomes,blood
-RPS18,Ribosomes,blood
-RPS19,Ribosomes,blood
-RPS2,Ribosomes,blood
-RPS20,Ribosomes,blood
-RPS21,Ribosomes,blood
-RPS23,Ribosomes,blood
-RPS25,Ribosomes,blood
-RPS27A,Ribosomes,blood
-RPS28,Ribosomes,blood
-RPS29,Ribosomes,blood
-RPS3,Ribosomes,blood
-RPS3A,Ribosomes,blood
-RPS5,Ribosomes,blood
-RPS6,Ribosomes,blood
-RPS7,Ribosomes,blood
-RPS8,Ribosomes,blood
 RPS9,Ribosomes,blood
-RPSA,Ribosomes,blood
-SNHG6,Ribosomes,blood
-SNHG8,Ribosomes,blood
-SNRPD2,Ribosomes,blood
+RPL21,Ribosomes,blood
+RPL31,Ribosomes,blood
+EIF3D,Ribosomes,blood
+RPL38,Ribosomes,blood
+RPL18A,Ribosomes,blood
+RPL18,Ribosomes,blood
+GNB2L1,Ribosomes,blood
+RPL39,Ribosomes,blood
 UXT,Ribosomes,blood
-ANK3,T cells,blood
-ATP6V0E2,T cells,blood
-ATP8B2,T cells,blood
-AXIN2,T cells,blood
-BCL11B,T cells,blood
-CAMK4,T cells,blood
-CCDC64,T cells,blood
-CD2,T cells,blood
-CD3D,T cells,blood
-CD5,T cells,blood
-CD6,T cells,blood
-CD96,T cells,blood
-CDC25B,T cells,blood
-CEP68,T cells,blood
+RPS2,Ribosomes,blood
+RPS19,Ribosomes,blood
+RPL11,Ribosomes,blood
+FAU,Ribosomes,blood
+RPS15,Ribosomes,blood
+SNRPD2,Ribosomes,blood
+RPLP2,Ribosomes,blood
+RPL35,Ribosomes,blood
+EEF1G,Ribosomes,blood
+RPS7,Ribosomes,blood
+EEF1D,Ribosomes,blood
+RPL23A,Ribosomes,blood
+RPS5,Ribosomes,blood
+RPL5,Ribosomes,blood
+EIF3H,Ribosomes,blood
+RPS3,Ribosomes,blood
+RPL9,Ribosomes,blood
+RPS17,Ribosomes,blood
+RPS27A,Ribosomes,blood
+RPL37,Ribosomes,blood
+RPL30,Ribosomes,blood
+RPLP0,Ribosomes,blood
+RPSA,Ribosomes,blood
+RPS16,Ribosomes,blood
+RPS15A,Ribosomes,blood
+RPL27,Ribosomes,blood
+RPL12,Ribosomes,blood
+RPL35A,Ribosomes,blood
+RPS13,Ribosomes,blood
+RPS29,Ribosomes,blood
+RPL32,Ribosomes,blood
+RPS21,Ribosomes,blood
+RPL27A,Ribosomes,blood
+RPL6,Ribosomes,blood
+RPL15,Ribosomes,blood
+RPS20,Ribosomes,blood
+RPL4,Ribosomes,blood
+RPS10,Ribosomes,blood
+RPL24,Ribosomes,blood
+RPL13A,Ribosomes,blood
+RPS6,Ribosomes,blood
+RPS18,Ribosomes,blood
+PFDN5,Ribosomes,blood
+RPL28,Ribosomes,blood
+EIF3K,Ribosomes,blood
+RPL34,Ribosomes,blood
+NACA,Ribosomes,blood
+RPL8,Ribosomes,blood
+RPL10L,Ribosomes,blood
+RPS14,Ribosomes,blood
+RPL7,Ribosomes,blood
+RPL10,Ribosomes,blood
+RPL23,Ribosomes,blood
+RPS28,Ribosomes,blood
+RPS3A,Ribosomes,blood
+EEF1B2,Ribosomes,blood
+SNHG8,Ribosomes,blood
+EIF3F,Ribosomes,blood
+RPL17,Ribosomes,blood
+RPS23,Ribosomes,blood
+RPL22,Ribosomes,blood
+RPL14,Ribosomes,blood
+EEF1A1,Ribosomes,blood
+EIF3E,Ribosomes,blood
+RPL13,Ribosomes,blood
+RPL29,Ribosomes,blood
+RPS25,Ribosomes,blood
+RPL37A,Ribosomes,blood
+RPS8,Ribosomes,blood
+RPL7A,Ribosomes,blood
+SNHG6,Ribosomes,blood
+RPS11,Ribosomes,blood
+RPL19,Ribosomes,blood
+RPL3,Ribosomes,blood
+PLEKHB1,T cells,blood
+RNF157,T cells,blood
 DGKA,T cells,blood
 DOCK9,T cells,blood
-FBXL16,T cells,blood
-FLT3LG,T cells,blood
-FYN,T cells,blood
-GATA3,T cells,blood
-GIMAP5,T cells,blood
-IL11RA,T cells,blood
-IL23A,T cells,blood
-IL7R,T cells,blood
-ITK,T cells,blood
-ITM2A,T cells,blood
-KLHL3,T cells,blood
-LAT,T cells,blood
-LCK,T cells,blood
-LEF1,T cells,blood
-LRIG1,T cells,blood
-MAL,T cells,blood
-MDS2,T cells,blood
-MLLT3,T cells,blood
-MORC4,T cells,blood
-NMT2,T cells,blood
+EPHX2,T cells,blood
+CD3E,T cells,blood
+OXNAD1,T cells,blood
 NOSIP,T cells,blood
-PIK3IP1,T cells,blood
-PLCG1,T cells,blood
-PRKCH,T cells,blood
-PRKCQ,T cells,blood
-PRKCQ-AS1,T cells,blood
-RASGRF2,T cells,blood
-RASGRP1,T cells,blood
-RCAN3,T cells,blood
-SCML4,T cells,blood
-SIRPG,T cells,blood
-SKAP1,T cells,blood
-SPOCK2,T cells,blood
-SUPT3H,T cells,blood
-TBC1D4,T cells,blood
-TC2N,T cells,blood
-TCF7,T cells,blood
-TESPA1,T cells,blood
-THEM4,T cells,blood
-TMC6,T cells,blood
-TMEM106B,T cells,blood
+CD3D,T cells,blood
+FLT3LG,T cells,blood
+BCL11B,T cells,blood
+IL7R,T cells,blood
 TMEM204,T cells,blood
-TNFRSF25,T cells,blood
-TNIK,T cells,blood
-TRAC,T cells,blood
-TRBC1,T cells,blood
+NELL2,T cells,blood
+CD5,T cells,blood
+LDLRAP1,T cells,blood
 UBASH3A,T cells,blood
-VSIG1,T cells,blood
-YME1L1,T cells,blood
-ZNF204P,T cells,blood
+TESPA1,T cells,blood
+CD27,T cells,blood
+ITK,T cells,blood
+MAL,T cells,blood
+THEM4,T cells,blood
+LAT,T cells,blood
+SIRPG,T cells,blood
+ABLIM1,T cells,blood
+CAMK4,T cells,blood
+TRABD2A,T cells,blood
+RCAN3,T cells,blood
+LEF1,T cells,blood
+NR3C2,T cells,blood
+ADTRP,T cells,blood
+CD3G,T cells,blood
+CD28,T cells,blood
+SCML4,T cells,blood
+CDR2,T cells,blood
+C12orf57,T cells,blood
+TRAT1,T cells,blood
+RASGRF2,T cells,blood
+PCED1B,T cells,blood
+CCR7,T cells,blood
+LRRN3,T cells,blood
+INPP4B,T cells,blood
+NOG,T cells,blood
+SPOCK2,T cells,blood
+GPRASP1,T cells,blood
+PASK,T cells,blood
+FAM102A,T cells,blood
+PIK3IP1,T cells,blood
+TCF7,T cells,blood
+TNFRSF25,T cells,blood
+CD6,T cells,blood
+LCK,T cells,blood
+CD96,T cells,blood
+IL23A,T cells,blood
+TRAC,T cells,blood
+STMN3,T cells,blood
+PRKCQ,T cells,blood
+TRBC1,T cells,blood
+PRKCQ-AS1,T cells,blood
+CECR1,Macrophages,blood
+CTSB,Macrophages,blood
+HLA-DRB6,Macrophages,blood
+FCGR2A,Macrophages,blood
+TNFSF13B,Macrophages,blood
+NCF2,Macrophages,blood
+SLAMF8,Macrophages,blood
+IFI30,Macrophages,blood
+CCR1,Macrophages,blood
+CD163,Macrophages,blood
+ITGB2,Macrophages,blood
+C1QB,Macrophages,blood
+C3AR1,Macrophages,blood
+FCER1G,Macrophages,blood
+TYROBP,Macrophages,blood
+TNFAIP2,Macrophages,blood
+SLC15A3,Macrophages,blood
+CD74,Macrophages,blood
+FCGR3B,Macrophages,blood
+CLEC7A,Macrophages,blood
+TRPV2,Macrophages,blood
+NCKAP1L,Macrophages,blood
+SPI1,Macrophages,blood
+CYBB,Macrophages,blood
+TYMP,Macrophages,blood
+SNX10,Macrophages,blood
+VSIG4,Macrophages,blood
+HK3,Macrophages,blood
+IGSF6,Macrophages,blood
+MSR1,Macrophages,blood
+LILRB4,Macrophages,blood
+TBXAS1,Macrophages,blood
+CD300A,Macrophages,blood
+TLR8,Macrophages,blood
+MNDA,Macrophages,blood
+FCGR1B,Macrophages,blood
+FPR3,Macrophages,blood
+FCGR1A,Macrophages,blood
+NPL,Macrophages,blood
+CD4,Macrophages,blood
+LY96,Macrophages,blood
+MYO1F,Macrophages,blood
+CYTH4,Macrophages,blood
+CD86,Macrophages,blood
+LAIR1,Macrophages,blood
+LAPTM5,Macrophages,blood
+PLA2G7,Macrophages,blood
+BCL2A1,Macrophages,blood
+C2,Macrophages,blood
+ADORA3,Macrophages,blood
+MAN2B1,Macrophages,blood
+ARRB2,Macrophages,blood
+EMR2,Macrophages,blood
+DPYD,Macrophages,blood
+ADAMDEC1,Macrophages,blood
+GPNMB,Macrophages,blood
+MFSD1,Macrophages,blood
+ITGAX,Macrophages,blood
+CMKLR1,Macrophages,blood
+MS4A7,Macrophages,blood
+TNFRSF1B,Macrophages,blood
+PLEKHO2,Macrophages,blood
+MS4A4A,Macrophages,blood
+CTSS,Macrophages,blood
+AOAH,Macrophages,blood
+ITGAM,Macrophages,blood
+CSF1R,Macrophages,blood
+CSF2RB,Macrophages,blood
+SLC31A2,Macrophages,blood
+C1QA,Macrophages,blood
+SCPEP1,Macrophages,blood
+C1orf54,Macrophages,blood
+TMEM140,Macrophages,blood
+C5AR1,Macrophages,blood
+NR1H3,Macrophages,blood
+ATP8B4,Macrophages,blood
+LIPA,Macrophages,blood
+CD68,Macrophages,blood
+CCRL2,Macrophages,blood
+SLCO2B1,Macrophages,blood

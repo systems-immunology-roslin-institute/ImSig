@@ -1,691 +1,617 @@
 SYMBOL,cell,type
-BLK,B cells,tissue
-CCR6,B cells,tissue
-CD180,B cells,tissue
-CD19,B cells,tissue
-CD37,B cells,tissue
-CD72,B cells,tissue
-CD79A,B cells,tissue
-CD79B,B cells,tissue
-CR2,B cells,tissue
-FAM129C,B cells,tissue
-FCRL1,B cells,tissue
-FCRL2,B cells,tissue
-FCRL3,B cells,tissue
-FCRL5,B cells,tissue
-FCRLA,B cells,tissue
-HLA-DOA,B cells,tissue
-KIAA0125,B cells,tissue
-LY9,B cells,tissue
-MS4A1,B cells,tissue
-P2RX5,B cells,tissue
-STAP1,B cells,tissue
-TCL1A,B cells,tissue
-TLR10,B cells,tissue
-VPREB3,B cells,tissue
-RAB30,B cells,tissue
-ABCB4,B cells,tissue
-AFF3,B cells,tissue
 BANK1,B cells,tissue
-BTLA,B cells,tissue
-CD22,B cells,tissue
-EBF1,B cells,tissue
 HLA-DOB,B cells,tissue
-IGHV5-78,B cells,tissue
-LINC00926,B cells,tissue
-LOC100130458,B cells,tissue
-LOC100507616,B cells,tissue
-PAX5,B cells,tissue
-PNOC,B cells,tissue
-POU2F2,B cells,tissue
-PPAPDC1B,B cells,tissue
-S1PR4,B cells,tissue
-SCN3A,B cells,tissue
+CD72,B cells,tissue
+TLR10,B cells,tissue
+CD19,B cells,tissue
+TCL1A,B cells,tissue
+MS4A1,B cells,tissue
+STAP1,B cells,tissue
+BTLA,B cells,tissue
+CR2,B cells,tissue
+FCRL2,B cells,tissue
+CD180,B cells,tissue
+P2RX5,B cells,tissue
+VPREB3,B cells,tissue
+FCRL1,B cells,tissue
+FCRL3,B cells,tissue
+FCRLA,B cells,tissue
+CD79B,B cells,tissue
 SNX22,B cells,tissue
-TCF4,B cells,tissue
-ANLN,Cell Cycle,tissue
-ASPM,Cell Cycle,tissue
-AURKA,Cell Cycle,tissue
-AURKB,Cell Cycle,tissue
-BIRC5,Cell Cycle,tissue
-BUB1,Cell Cycle,tissue
-BUB1B,Cell Cycle,tissue
-CASC5,Cell Cycle,tissue
-CCNA2,Cell Cycle,tissue
-CCNB1,Cell Cycle,tissue
-CCNB2,Cell Cycle,tissue
-CCNE2,Cell Cycle,tissue
-CDC20,Cell Cycle,tissue
-CDC6,Cell Cycle,tissue
-CDCA2,Cell Cycle,tissue
-CDCA3,Cell Cycle,tissue
-CDCA5,Cell Cycle,tissue
-CDCA7,Cell Cycle,tissue
-CDCA8,Cell Cycle,tissue
-CDK1,Cell Cycle,tissue
-CDKN3,Cell Cycle,tissue
-CDT1,Cell Cycle,tissue
-CENPA,Cell Cycle,tissue
-CENPE,Cell Cycle,tissue
-CENPF,Cell Cycle,tissue
-CENPL,Cell Cycle,tissue
-CEP55,Cell Cycle,tissue
-CKS1B,Cell Cycle,tissue
-DEPDC1,Cell Cycle,tissue
-DEPDC1B,Cell Cycle,tissue
-DLGAP5,Cell Cycle,tissue
-DONSON,Cell Cycle,tissue
-DTL,Cell Cycle,tissue
-E2F8,Cell Cycle,tissue
-ECT2,Cell Cycle,tissue
-EZH2,Cell Cycle,tissue
-FAM72C,Cell Cycle,tissue
-FANCI,Cell Cycle,tissue
-FBXO5,Cell Cycle,tissue
-FOXM1,Cell Cycle,tissue
-GINS1,Cell Cycle,tissue
+IGHV5-78,B cells,tissue
+FAM129C,B cells,tissue
+FCRL5,B cells,tissue
+LOC100507616,B cells,tissue
+CD79A,B cells,tissue
+CCR6,B cells,tissue
+LY9,B cells,tissue
+LINC00926,B cells,tissue
+CD37,B cells,tissue
+KIAA0125,B cells,tissue
+PNOC,B cells,tissue
+CD22,B cells,tissue
+PAX5,B cells,tissue
+AFF3,B cells,tissue
+POU2F2,B cells,tissue
+S1PR4,B cells,tissue
+BLK,B cells,tissue
+EBF1,B cells,tissue
 GINS2,Cell Cycle,tissue
-GMNN,Cell Cycle,tissue
-HJURP,Cell Cycle,tissue
-HMGB3,Cell Cycle,tissue
-HMMR,Cell Cycle,tissue
-KIAA0101,Cell Cycle,tissue
-KIF11,Cell Cycle,tissue
-KIF14,Cell Cycle,tissue
-KIF15,Cell Cycle,tissue
-KIF18B,Cell Cycle,tissue
-KIF20A,Cell Cycle,tissue
-KIF2C,Cell Cycle,tissue
-KIF4A,Cell Cycle,tissue
-MAD2L1,Cell Cycle,tissue
-MCM10,Cell Cycle,tissue
-MCM2,Cell Cycle,tissue
-MCM4,Cell Cycle,tissue
-MCM6,Cell Cycle,tissue
-MELK,Cell Cycle,tissue
-MKI67,Cell Cycle,tissue
-MND1,Cell Cycle,tissue
-MTFR2,Cell Cycle,tissue
-NCAPG,Cell Cycle,tissue
-NCAPG2,Cell Cycle,tissue
-NDC80,Cell Cycle,tissue
-NEK2,Cell Cycle,tissue
-NUF2,Cell Cycle,tissue
-NUSAP1,Cell Cycle,tissue
-OIP5,Cell Cycle,tissue
-PARPBP,Cell Cycle,tissue
-PBK,Cell Cycle,tissue
-PCNA,Cell Cycle,tissue
-PLK4,Cell Cycle,tissue
-POLE2,Cell Cycle,tissue
-POLQ,Cell Cycle,tissue
-PTTG1,Cell Cycle,tissue
-RACGAP1,Cell Cycle,tissue
-RAD51,Cell Cycle,tissue
-RAD51AP1,Cell Cycle,tissue
-RRM1,Cell Cycle,tissue
-RRM2,Cell Cycle,tissue
-SHCBP1,Cell Cycle,tissue
-SKA1,Cell Cycle,tissue
-SMC2,Cell Cycle,tissue
-SPC25,Cell Cycle,tissue
-STIL,Cell Cycle,tissue
-STMN1,Cell Cycle,tissue
-TCF19,Cell Cycle,tissue
-TK1,Cell Cycle,tissue
-TOP2A,Cell Cycle,tissue
-TPX2,Cell Cycle,tissue
-TRIP13,Cell Cycle,tissue
-TTK,Cell Cycle,tissue
-TYMS,Cell Cycle,tissue
-UBE2C,Cell Cycle,tissue
 UHRF1,Cell Cycle,tissue
 ZWILCH,Cell Cycle,tissue
+FANCI,Cell Cycle,tissue
+RAD51AP1,Cell Cycle,tissue
+SMC2,Cell Cycle,tissue
+GINS1,Cell Cycle,tissue
+NCAPG2,Cell Cycle,tissue
+RAD51,Cell Cycle,tissue
+NDC80,Cell Cycle,tissue
+MCM6,Cell Cycle,tissue
+DTL,Cell Cycle,tissue
+HMMR,Cell Cycle,tissue
+EZH2,Cell Cycle,tissue
+KIAA0101,Cell Cycle,tissue
+MAD2L1,Cell Cycle,tissue
+PBK,Cell Cycle,tissue
+CDK1,Cell Cycle,tissue
+TOP2A,Cell Cycle,tissue
+CCNB1,Cell Cycle,tissue
 ZWINT,Cell Cycle,tissue
-APOL1,IFN,tissue
-APOL6,IFN,tissue
-BATF2,IFN,tissue
-BST2,IFN,tissue
-C18orf49,IFN,tissue
-C19orf66,IFN,tissue
-C5orf56,IFN,tissue
-CMPK2,IFN,tissue
-CMTR1,IFN,tissue
-DDX58,IFN,tissue
-DDX60,IFN,tissue
-DHX58,IFN,tissue
-DTX3L,IFN,tissue
-EIF2AK2,IFN,tissue
-EPSTI1,IFN,tissue
-FBXO6,IFN,tissue
-GBP1,IFN,tissue
+CENPE,Cell Cycle,tissue
+ANLN,Cell Cycle,tissue
+CENPF,Cell Cycle,tissue
+CCNA2,Cell Cycle,tissue
+KIF20A,Cell Cycle,tissue
+BUB1B,Cell Cycle,tissue
+TTK,Cell Cycle,tissue
+PTTG1,Cell Cycle,tissue
+NUSAP1,Cell Cycle,tissue
+NUF2,Cell Cycle,tissue
+RACGAP1,Cell Cycle,tissue
+MELK,Cell Cycle,tissue
+RRM1,Cell Cycle,tissue
+TCF19,Cell Cycle,tissue
+CDT1,Cell Cycle,tissue
+POLE2,Cell Cycle,tissue
+TK1,Cell Cycle,tissue
+MCM4,Cell Cycle,tissue
+GMNN,Cell Cycle,tissue
+MCM2,Cell Cycle,tissue
+MND1,Cell Cycle,tissue
+CDC20,Cell Cycle,tissue
+DEPDC1B,Cell Cycle,tissue
+PCNA,Cell Cycle,tissue
+CDC6,Cell Cycle,tissue
+FOXM1,Cell Cycle,tissue
+RRM2,Cell Cycle,tissue
+TYMS,Cell Cycle,tissue
+TRIP13,Cell Cycle,tissue
+MTFR2,Cell Cycle,tissue
+CENPL,Cell Cycle,tissue
+BIRC5,Cell Cycle,tissue
+CKS1B,Cell Cycle,tissue
+MCM10,Cell Cycle,tissue
+SPC25,Cell Cycle,tissue
+E2F8,Cell Cycle,tissue
+CDCA2,Cell Cycle,tissue
+CDKN3,Cell Cycle,tissue
+CDCA3,Cell Cycle,tissue
+CENPA,Cell Cycle,tissue
+UBE2C,Cell Cycle,tissue
+OIP5,Cell Cycle,tissue
+KIF11,Cell Cycle,tissue
+CCNB2,Cell Cycle,tissue
+NEK2,Cell Cycle,tissue
+STIL,Cell Cycle,tissue
+ECT2,Cell Cycle,tissue
+AURKA,Cell Cycle,tissue
+KIF15,Cell Cycle,tissue
+KIF2C,Cell Cycle,tissue
+KIF18B,Cell Cycle,tissue
+KIF14,Cell Cycle,tissue
+TPX2,Cell Cycle,tissue
+FAM72C,Cell Cycle,tissue
+DLGAP5,Cell Cycle,tissue
+ASPM,Cell Cycle,tissue
+DEPDC1,Cell Cycle,tissue
+KIF4A,Cell Cycle,tissue
+HMGB3,Cell Cycle,tissue
+CDCA8,Cell Cycle,tissue
+PLK4,Cell Cycle,tissue
+CCNE2,Cell Cycle,tissue
+CDCA7,Cell Cycle,tissue
+SHCBP1,Cell Cycle,tissue
+STMN1,Cell Cycle,tissue
+DONSON,Cell Cycle,tissue
+PARPBP,Cell Cycle,tissue
+SKA1,Cell Cycle,tissue
+FBXO5,Cell Cycle,tissue
+MKI67,Cell Cycle,tissue
+CEP55,Cell Cycle,tissue
+NCAPG,Cell Cycle,tissue
+POLQ,Cell Cycle,tissue
+AURKB,Cell Cycle,tissue
+CASC5,Cell Cycle,tissue
+HJURP,Cell Cycle,tissue
+CDCA5,Cell Cycle,tissue
+BUB1,Cell Cycle,tissue
+STAT2,IFN,tissue
 GBP4,IFN,tissue
+IRF7,IFN,tissue
+IFI44L,IFN,tissue
+ISG15,IFN,tissue
+SP110,IFN,tissue
+IFI44,IFN,tissue
+XAF1,IFN,tissue
+STAT1,IFN,tissue
+DTX3L,IFN,tissue
+OAS3,IFN,tissue
+MX1,IFN,tissue
+SAMD9L,IFN,tissue
+IFIH1,IFN,tissue
+PARP9,IFN,tissue
+IFIT3,IFN,tissue
+TRAFD1,IFN,tissue
+C5orf56,IFN,tissue
+BST2,IFN,tissue
+IFITM1,IFN,tissue
+C19orf66,IFN,tissue
+RNF213,IFN,tissue
+IFI16,IFN,tissue
+IRF9,IFN,tissue
+TRIM22,IFN,tissue
+RTP4,IFN,tissue
+BATF2,IFN,tissue
+TAP1,IFN,tissue
+GBP1,IFN,tissue
+PSMB9,IFN,tissue
+MX2,IFN,tissue
+ZNFX1,IFN,tissue
+LAMP3,IFN,tissue
+IFIT5,IFN,tissue
+SAMD9,IFN,tissue
+IFI35,IFN,tissue
+EPSTI1,IFN,tissue
+PARP12,IFN,tissue
+IFIT2,IFN,tissue
+CMPK2,IFN,tissue
+UBE2L6,IFN,tissue
+OAS2,IFN,tissue
+PARP14,IFN,tissue
+PHF11,IFN,tissue
+SHISA5,IFN,tissue
+FBXO6,IFN,tissue
+PARP10,IFN,tissue
+IFI6,IFN,tissue
+APOL6,IFN,tissue
+USP18,IFN,tissue
+DDX60,IFN,tissue
+LAP3,IFN,tissue
+HERC6,IFN,tissue
+RSAD2,IFN,tissue
+IFIT1,IFN,tissue
+PML,IFN,tissue
+TRIM5,IFN,tissue
+APOL1,IFN,tissue
+DHX58,IFN,tissue
+HSH2D,IFN,tissue
+SIGLEC1,IFN,tissue
+DDX58,IFN,tissue
 HELZ2,IFN,tissue
 HERC5,IFN,tissue
-HERC6,IFN,tissue
-HESX1,IFN,tissue
-HSH2D,IFN,tissue
-IFI16,IFN,tissue
-IFI35,IFN,tissue
-IFI44,IFN,tissue
-IFI44L,IFN,tissue
-IFI6,IFN,tissue
-IFIH1,IFN,tissue
-IFIT1,IFN,tissue
-IFIT2,IFN,tissue
-IFIT3,IFN,tissue
-IFIT5,IFN,tissue
-IFITM1,IFN,tissue
-IRF7,IFN,tissue
-IRF9,IFN,tissue
-ISG15,IFN,tissue
-LAMP3,IFN,tissue
-LAP3,IFN,tissue
-LGALS3BP,IFN,tissue
-LY6E,IFN,tissue
-MOV10,IFN,tissue
-MVB12A,IFN,tissue
-MX1,IFN,tissue
-MX2,IFN,tissue
-OAS1,IFN,tissue
-OAS2,IFN,tissue
-OAS3,IFN,tissue
 OASL,IFN,tissue
-PARP10,IFN,tissue
-PARP12,IFN,tissue
-PARP14,IFN,tissue
-PARP9,IFN,tissue
-PHF11,IFN,tissue
-PML,IFN,tissue
-PNPT1,IFN,tissue
-PSMB9,IFN,tissue
-RNF213,IFN,tissue
-RSAD2,IFN,tissue
-RTP4,IFN,tissue
-SAMD9,IFN,tissue
-SAMD9L,IFN,tissue
-SERPING1,IFN,tissue
-SHISA5,IFN,tissue
-SIGLEC1,IFN,tissue
-SP110,IFN,tissue
-SPATS2L,IFN,tissue
-STAT1,IFN,tissue
-STAT2,IFN,tissue
-TAP1,IFN,tissue
-TDRD7,IFN,tissue
-TNFSF10,IFN,tissue
-TOR1B,IFN,tissue
-TRAFD1,IFN,tissue
 TRIM21,IFN,tissue
-TRIM22,IFN,tissue
-TRIM38,IFN,tissue
-TRIM5,IFN,tissue
-TRIM6,IFN,tissue
-UBE2L6,IFN,tissue
-USP18,IFN,tissue
-XAF1,IFN,tissue
-ZBP1,IFN,tissue
-ZCCHC2,IFN,tissue
-ZNFX1,IFN,tissue
-ADAMDEC1,Macrophages/Dendritic cells,tissue
-ADORA3,Macrophages/Dendritic cells,tissue
-AOAH,Macrophages/Dendritic cells,tissue
-ARRB2,Macrophages/Dendritic cells,tissue
-ATP8B4,Macrophages/Dendritic cells,tissue
-BCL2A1,Macrophages/Dendritic cells,tissue
-C1orf54,Macrophages/Dendritic cells,tissue
-C1QA,Macrophages/Dendritic cells,tissue
-C1QB,Macrophages/Dendritic cells,tissue
-C2,Macrophages/Dendritic cells,tissue
-C3AR1,Macrophages/Dendritic cells,tissue
-C5AR1,Macrophages/Dendritic cells,tissue
-CCR1,Macrophages/Dendritic cells,tissue
-CCRL2,Macrophages/Dendritic cells,tissue
-CD163,Macrophages/Dendritic cells,tissue
-CD300A,Macrophages/Dendritic cells,tissue
-CD4,Macrophages/Dendritic cells,tissue
-CD68,Macrophages/Dendritic cells,tissue
-CD74,Macrophages/Dendritic cells,tissue
-CD86,Macrophages/Dendritic cells,tissue
-CECR1,Macrophages/Dendritic cells,tissue
-CLEC7A,Macrophages/Dendritic cells,tissue
-CMKLR1,Macrophages/Dendritic cells,tissue
-CSF1R,Macrophages/Dendritic cells,tissue
-CSF2RB,Macrophages/Dendritic cells,tissue
-CTSB,Macrophages/Dendritic cells,tissue
-CTSS,Macrophages/Dendritic cells,tissue
-CYBB,Macrophages/Dendritic cells,tissue
-CYTH4,Macrophages/Dendritic cells,tissue
-DPYD,Macrophages/Dendritic cells,tissue
-EMR2,Macrophages/Dendritic cells,tissue
-FCER1G,Macrophages/Dendritic cells,tissue
-FCGR1A,Macrophages/Dendritic cells,tissue
-FCGR1B,Macrophages/Dendritic cells,tissue
-FCGR2A,Macrophages/Dendritic cells,tissue
-FCGR3B,Macrophages/Dendritic cells,tissue
-FPR3,Macrophages/Dendritic cells,tissue
-GPNMB,Macrophages/Dendritic cells,tissue
-HK3,Macrophages/Dendritic cells,tissue
-HLA-DRB6,Macrophages/Dendritic cells,tissue
-IFI30,Macrophages/Dendritic cells,tissue
-IGSF6,Macrophages/Dendritic cells,tissue
-ITGAM,Macrophages/Dendritic cells,tissue
-ITGAX,Macrophages/Dendritic cells,tissue
-ITGB2,Macrophages/Dendritic cells,tissue
-LAIR1,Macrophages/Dendritic cells,tissue
-LAPTM5,Macrophages/Dendritic cells,tissue
-LILRB4,Macrophages/Dendritic cells,tissue
-LIPA,Macrophages/Dendritic cells,tissue
-LY96,Macrophages/Dendritic cells,tissue
-MAFB,Macrophages/Dendritic cells,tissue
-MAN2B1,Macrophages/Dendritic cells,tissue
-MFSD1,Macrophages/Dendritic cells,tissue
-MNDA,Macrophages/Dendritic cells,tissue
-MS4A4A,Macrophages/Dendritic cells,tissue
-MS4A6A,Macrophages/Dendritic cells,tissue
-MS4A7,Macrophages/Dendritic cells,tissue
-MSR1,Macrophages/Dendritic cells,tissue
-MYO1F,Macrophages/Dendritic cells,tissue
-NCF2,Macrophages/Dendritic cells,tissue
-NCKAP1L,Macrophages/Dendritic cells,tissue
-NPL,Macrophages/Dendritic cells,tissue
-NR1H3,Macrophages/Dendritic cells,tissue
-P2RY13,Macrophages/Dendritic cells,tissue
-PLA2G7,Macrophages/Dendritic cells,tissue
-PLEKHO2,Macrophages/Dendritic cells,tissue
-SCPEP1,Macrophages/Dendritic cells,tissue
-SLAMF8,Macrophages/Dendritic cells,tissue
-SLC15A3,Macrophages/Dendritic cells,tissue
-SLC31A2,Macrophages/Dendritic cells,tissue
-SLCO2B1,Macrophages/Dendritic cells,tissue
-SNX10,Macrophages/Dendritic cells,tissue
-SPI1,Macrophages/Dendritic cells,tissue
-TBXAS1,Macrophages/Dendritic cells,tissue
-TLR8,Macrophages/Dendritic cells,tissue
-TMEM140,Macrophages/Dendritic cells,tissue
-TNFAIP2,Macrophages/Dendritic cells,tissue
-TNFRSF1B,Macrophages/Dendritic cells,tissue
-TNFSF13B,Macrophages/Dendritic cells,tissue
-TRPV2,Macrophages/Dendritic cells,tissue
-TYMP,Macrophages/Dendritic cells,tissue
-TYROBP,Macrophages/Dendritic cells,tissue
-VSIG4,Macrophages/Dendritic cells,tissue
+CECR1,Macrophages,tissue
+CTSB,Macrophages,tissue
+HLA-DRB6,Macrophages,tissue
+FCGR2A,Macrophages,tissue
+TNFSF13B,Macrophages,tissue
+NCF2,Macrophages,tissue
+SLAMF8,Macrophages,tissue
+IFI30,Macrophages,tissue
+CCR1,Macrophages,tissue
+CD163,Macrophages,tissue
+ITGB2,Macrophages,tissue
+C1QB,Macrophages,tissue
+C3AR1,Macrophages,tissue
+FCER1G,Macrophages,tissue
+TYROBP,Macrophages,tissue
+TNFAIP2,Macrophages,tissue
+SLC15A3,Macrophages,tissue
+CD74,Macrophages,tissue
+FCGR3B,Macrophages,tissue
+CLEC7A,Macrophages,tissue
+TRPV2,Macrophages,tissue
+NCKAP1L,Macrophages,tissue
+SPI1,Macrophages,tissue
+CYBB,Macrophages,tissue
+TYMP,Macrophages,tissue
+SNX10,Macrophages,tissue
+VSIG4,Macrophages,tissue
+HK3,Macrophages,tissue
+IGSF6,Macrophages,tissue
+MSR1,Macrophages,tissue
+LILRB4,Macrophages,tissue
+TBXAS1,Macrophages,tissue
+CD300A,Macrophages,tissue
+TLR8,Macrophages,tissue
+MNDA,Macrophages,tissue
+FCGR1B,Macrophages,tissue
+FPR3,Macrophages,tissue
+FCGR1A,Macrophages,tissue
+NPL,Macrophages,tissue
+CD4,Macrophages,tissue
+LY96,Macrophages,tissue
+MYO1F,Macrophages,tissue
+CYTH4,Macrophages,tissue
+CD86,Macrophages,tissue
+LAIR1,Macrophages,tissue
+LAPTM5,Macrophages,tissue
+PLA2G7,Macrophages,tissue
+BCL2A1,Macrophages,tissue
+C2,Macrophages,tissue
+ADORA3,Macrophages,tissue
+MAN2B1,Macrophages,tissue
+ARRB2,Macrophages,tissue
+EMR2,Macrophages,tissue
+DPYD,Macrophages,tissue
+ADAMDEC1,Macrophages,tissue
+GPNMB,Macrophages,tissue
+MFSD1,Macrophages,tissue
+ITGAX,Macrophages,tissue
+CMKLR1,Macrophages,tissue
+MS4A7,Macrophages,tissue
+TNFRSF1B,Macrophages,tissue
+PLEKHO2,Macrophages,tissue
+MS4A4A,Macrophages,tissue
+CTSS,Macrophages,tissue
+AOAH,Macrophages,tissue
+ITGAM,Macrophages,tissue
+CSF1R,Macrophages,tissue
+CSF2RB,Macrophages,tissue
+SLC31A2,Macrophages,tissue
+C1QA,Macrophages,tissue
+SCPEP1,Macrophages,tissue
+C1orf54,Macrophages,tissue
+TMEM140,Macrophages,tissue
+C5AR1,Macrophages,tissue
+NR1H3,Macrophages,tissue
+ATP8B4,Macrophages,tissue
+LIPA,Macrophages,tissue
+CD68,Macrophages,tissue
+CCRL2,Macrophages,tissue
+SLCO2B1,Macrophages,tissue
+PILRA,Monocytes,tissue
+PSAP,Monocytes,tissue
+LILRB2,Monocytes,tissue
+HCK,Monocytes,tissue
+THEMIS2,Monocytes,tissue
+EMILIN2,Monocytes,tissue
+LILRB3,Monocytes,tissue
+FCN1,Monocytes,tissue
+KIAA0930,Monocytes,tissue
+TPP1,Monocytes,tissue
+LST1,Monocytes,tissue
 AIF1,Monocytes,tissue
-CD14,Monocytes,tissue
+LILRA6,Monocytes,tissue
+CD93,Monocytes,tissue
+RHOG,Monocytes,tissue
 CD300LF,Monocytes,tissue
 FGR,Monocytes,tissue
-LILRB2,Monocytes,tissue
-LILRB3,Monocytes,tissue
-LST1,Monocytes,tissue
-PILRA,Monocytes,tissue
-CD93,Monocytes,tissue
-HCK,Monocytes,tissue
+CD14,Monocytes,tissue
 TIMP2,Monocytes,tissue
-VCAN,Monocytes,tissue
-LILRA6,Monocytes,tissue
-SLC7A7,Monocytes,tissue
+PLXDC2,Monocytes,tissue
 CTSD,Monocytes,tissue
-EMILIN2,Monocytes,tissue
-FCN1,Monocytes,tissue
+HMOX1,Monocytes,tissue
+C10orf54,Monocytes,tissue
+SLC7A7,Monocytes,tissue
 FES,Monocytes,tissue
 GNS,Monocytes,tissue
-PLXDC2,Monocytes,tissue
-THEMIS2,Monocytes,tissue
-TNS3,Monocytes,tissue
-ASGR1,Monocytes,tissue
-CD33,Monocytes,tissue
-HMOX1,Monocytes,tissue
-PSAP,Monocytes,tissue
+VCAN,Monocytes,tissue
 TGFBI,Monocytes,tissue
-TPP1,Monocytes,tissue
-LRRC25,Monocytes,tissue
-NOTCH2,Monocytes,tissue
-AGTRAP,Monocytes,tissue
-C10orf54,Monocytes,tissue
-GRN,Monocytes,tissue
-KIAA0513,Monocytes,tissue
 NFAM1,Monocytes,tissue
 PRAM1,Monocytes,tissue
-PYCARD,Monocytes,tissue
+LRRC25,Monocytes,tissue
+GRN,Monocytes,tissue
 SERPINA1,Monocytes,tissue
-RHOG,Monocytes,tissue
-IMPDH1,Monocytes,tissue
-KIAA0930,Monocytes,tissue
-PFKFB4,Monocytes,tissue
-S100A9,Neutrophils,tissue
-ACSL1,Neutrophils,tissue
-AQP9,Neutrophils,tissue
-CFP,Neutrophils,tissue
-CSF3R,Neutrophils,tissue
-DENND5A,Neutrophils,tissue
-DYSF,Neutrophils,tissue
+PYCARD,Monocytes,tissue
+CD33,Monocytes,tissue
+AGTRAP,Monocytes,tissue
+NOTCH2,Monocytes,tissue
+THBD,Neutrophils,tissue
 FPR1,Neutrophils,tissue
-PHC2,Neutrophils,tissue
-PLXNC1,Neutrophils,tissue
+BCL6,Neutrophils,tissue
 TLR2,Neutrophils,tissue
+TNFRSF1A,Neutrophils,tissue
+RNF149,Neutrophils,tissue
+PLXNC1,Neutrophils,tissue
+CFLAR,Neutrophils,tissue
+PREX1,Neutrophils,tissue
+DYSF,Neutrophils,tissue
+S100A9,Neutrophils,tissue
+S100A8,Neutrophils,tissue
+CSF3R,Neutrophils,tissue
+RALB,Neutrophils,tissue
+KIAA0247,Neutrophils,tissue
+STAT3,Neutrophils,tissue
+PHC2,Neutrophils,tissue
+IL17RA,Neutrophils,tissue
+GPR97,Neutrophils,tissue
+MOB3A,Neutrophils,tissue
+CEP19,Neutrophils,tissue
+SLC25A37,Neutrophils,tissue
+LILRA2,Neutrophils,tissue
+PHF21A,Neutrophils,tissue
+NAMPT,Neutrophils,tissue
+SNORD89,Neutrophils,tissue
+NCF4,Neutrophils,tissue
 TLR4,Neutrophils,tissue
+GLT1D1,Neutrophils,tissue
+DENND5A,Neutrophils,tissue
+ACSL1,Neutrophils,tissue
+BASP1,Neutrophils,tissue
+PADI2,Neutrophils,tissue
+LIMK2,Neutrophils,tissue
+KCNJ2,Neutrophils,tissue
 ALPK1,Neutrophils,tissue
 CD97,Neutrophils,tissue
-DOCK5,Neutrophils,tissue
-IFITM2,Neutrophils,tissue
-IGF2R,Neutrophils,tissue
-IL17RA,Neutrophils,tissue
-KCNJ2,Neutrophils,tissue
-KIAA0247,Neutrophils,tissue
-LIMK2,Neutrophils,tissue
-PADI2,Neutrophils,tissue
-RALB,Neutrophils,tissue
-RNF149,Neutrophils,tissue
-TNFRSF1A,Neutrophils,tissue
-WDFY3,Neutrophils,tissue
-BASP1,Neutrophils,tissue
-BCL6,Neutrophils,tissue
-CEP19,Neutrophils,tissue
-CFLAR,Neutrophils,tissue
-CXCR2,Neutrophils,tissue
-DGAT2,Neutrophils,tissue
-FAM65B,Neutrophils,tissue
-FCGR2C,Neutrophils,tissue
-GLT1D1,Neutrophils,tissue
-GPR97,Neutrophils,tissue
-IQSEC1,Neutrophils,tissue
-ITPRIP,Neutrophils,tissue
-LILRA2,Neutrophils,tissue
-LINC01000,Neutrophils,tissue
-LINC01002,Neutrophils,tissue
-MGAM,Neutrophils,tissue
-MOB3A,Neutrophils,tissue
-NAMPT,Neutrophils,tissue
-NCF4,Neutrophils,tissue
-PHF21A,Neutrophils,tissue
-PPIF,Neutrophils,tissue
-PREX1,Neutrophils,tissue
-SLC25A37,Neutrophils,tissue
-SNORD89,Neutrophils,tissue
 SSH2,Neutrophils,tissue
-STAT3,Neutrophils,tissue
+MGAM,Neutrophils,tissue
 STAT5B,Neutrophils,tissue
-THBD,Neutrophils,tissue
+IFITM2,Neutrophils,tissue
+CXCR2,Neutrophils,tissue
+FAM65B,Neutrophils,tissue
+LINC01002,Neutrophils,tissue
+AQP9,Neutrophils,tissue
+FCGR2C,Neutrophils,tissue
 TMEM154,Neutrophils,tissue
-TNFRSF10C,Neutrophils,tissue
-S100A8,Neutrophils,tissue
-KIR2DL1,NK cells,tissue
-KIR2DL2,NK cells,tissue
-KIR2DL4,NK cells,tissue
-KIR2DL5A,NK cells,tissue
-KIR2DS1,NK cells,tissue
-KIR2DS2,NK cells,tissue
-KIR2DS3,NK cells,tissue
-KIR2DS5,NK cells,tissue
-KIR3DL1,NK cells,tissue
 KIR3DL2,NK cells,tissue
-KIR3DL3,NK cells,tissue
+KIR3DL1,NK cells,tissue
+KIR2DS2,NK cells,tissue
+KIR2DS1,NK cells,tissue
+KIR2DS3,NK cells,tissue
+KIR2DL2,NK cells,tissue
+KIR2DL5A,NK cells,tissue
+KIR2DS5,NK cells,tissue
 TBX21,NK cells,tissue
+KIR2DL1,NK cells,tissue
+KIR2DL4,NK cells,tissue
+KIR3DL3,NK cells,tissue
 KIR2DL3,NK cells,tissue
-KLRC2,NK cells,tissue
+PRF1,NK cells,tissue
 KLRC3,NK cells,tissue
+SH2D1B,NK cells,tissue
+KLRC2,NK cells,tissue
+SAMD3,NK cells,tissue
 KLRC4,NK cells,tissue
 KLRD1,NK cells,tissue
-PRF1,NK cells,tissue
-SAMD3,NK cells,tissue
-SH2D1B,NK cells,tissue
-GUSBP11,Plasma cells,tissue
+TXNDC5,Plasma cells,tissue
+TNFRSF17,Plasma cells,tissue
+MZB1,Plasma cells,tissue
+IGLV1-44,Plasma cells,tissue
 IGH,Plasma cells,tissue
-IGHG3,Plasma cells,tissue
 IGJ,Plasma cells,tissue
 IGKC,Plasma cells,tissue
+IGHG3,Plasma cells,tissue
+GUSBP11,Plasma cells,tissue
 IGKV1D-13,Plasma cells,tissue
-IGLC1,Plasma cells,tissue
-IGLJ3,Plasma cells,tissue
-IGLL3P,Plasma cells,tissue
 IGLV@,Plasma cells,tissue
-IGLV1-44,Plasma cells,tissue
-MZB1,Plasma cells,tissue
-TNFRSF17,Plasma cells,tissue
-TXNDC5,Plasma cells,tissue
-ABLIM3,Platelets,tissue
-ACRBP,Platelets,tissue
-ALOX12,Platelets,tissue
-AQP10,Platelets,tissue
-ARHGAP6,Platelets,tissue
-BEND2,Platelets,tissue
-C19orf33,Platelets,tissue
-C1orf198,Platelets,tissue
-CALD1,Platelets,tissue
-CLEC1B,Platelets,tissue
-CLU,Platelets,tissue
-CMTM5,Platelets,tissue
-CTDSPL,Platelets,tissue
-DNM3,Platelets,tissue
-EGF,Platelets,tissue
-ELOVL7,Platelets,tissue
-ENDOD1,Platelets,tissue
-GFI1B,Platelets,tissue
-GNAZ,Platelets,tissue
-GNG11,Platelets,tissue
-GP1BA,Platelets,tissue
-GP1BB,Platelets,tissue
-GP6,Platelets,tissue
-GUCY1A3,Platelets,tissue
-GUCY1B3,Platelets,tissue
-ITGA2B,Platelets,tissue
-ITGB3,Platelets,tissue
-LOC100130938,Platelets,tissue
-LTBP1,Platelets,tissue
-LY6G6D,Platelets,tissue
-MFAP3L,Platelets,tissue
-MMD,Platelets,tissue
-MMRN1,Platelets,tissue
-MPL,Platelets,tissue
-MTURN,Platelets,tissue
-MYL9,Platelets,tissue
-MYLK,Platelets,tissue
-NRGN,Platelets,tissue
-PCSK6,Platelets,tissue
-PDGFA,Platelets,tissue
-PEAR1,Platelets,tissue
-PF4,Platelets,tissue
-PGRMC1,Platelets,tissue
-PPBP,Platelets,tissue
-PRKAR2B,Platelets,tissue
-PROS1,Platelets,tissue
-PRTFDC1,Platelets,tissue
-RAB27B,Platelets,tissue
-RHOBTB1,Platelets,tissue
-SDPR,Platelets,tissue
-SEC14L5,Platelets,tissue
-SELP,Platelets,tissue
-SH3BGRL2,Platelets,tissue
-SLC24A3,Platelets,tissue
-SPX,Platelets,tissue
-STON2,Platelets,tissue
-TBXA2R,Platelets,tissue
-TDRP,Platelets,tissue
-TGFB1I1,Platelets,tissue
-TMEM40,Platelets,tissue
-TRBV27,Platelets,tissue
-TREML1,Platelets,tissue
-TUBB1,Platelets,tissue
-WASF3,Platelets,tissue
-AMICA1,T cells,tissue
-ARHGAP9,T cells,tissue
-C1orf162,T cells,tissue
-CCR5,T cells,tissue
-CD2,T cells,tissue
-CD247,T cells,tissue
-CD28,T cells,tissue
-CD3D,T cells,tissue
-CD3G,T cells,tissue
-CD8A,T cells,tissue
-CXCL9,T cells,tissue
-EVI2A,T cells,tissue
-EVI2B,T cells,tissue
-FAM26F,T cells,tissue
-FYB,T cells,tissue
-GIMAP2,T cells,tissue
+IGLJ3,Plasma cells,tissue
+IGLC1,Plasma cells,tissue
+IGLL3P,Plasma cells,tissue
+RPS3A,Ribosomes,tissue
+FAU,Ribosomes,tissue
+RPS23,Ribosomes,tissue
+RPL18A,Ribosomes,tissue
+EIF3F,Ribosomes,tissue
+RPL24,Ribosomes,tissue
+RPS15A,Ribosomes,tissue
+SNHG8,Ribosomes,tissue
+RPL11,Ribosomes,tissue
+RPL15,Ribosomes,tissue
+PFDN5,Ribosomes,tissue
+EIF3E,Ribosomes,tissue
+RPS25,Ribosomes,tissue
+RPL31,Ribosomes,tissue
+RPL18,Ribosomes,tissue
+EEF1B2,Ribosomes,tissue
+RPL5,Ribosomes,tissue
+RPS9,Ribosomes,tissue
+RPL10,Ribosomes,tissue
+RPS27A,Ribosomes,tissue
+RPL7A,Ribosomes,tissue
+RPSA,Ribosomes,tissue
+RPS19,Ribosomes,tissue
+RPS6,Ribosomes,tissue
+RPLP2,Ribosomes,tissue
+RPL13A,Ribosomes,tissue
+RPS13,Ribosomes,tissue
+RPL6,Ribosomes,tissue
+RPS18,Ribosomes,tissue
+RPS15,Ribosomes,tissue
+RPS28,Ribosomes,tissue
+RPL9,Ribosomes,tissue
+RPL32,Ribosomes,tissue
+RPL23,Ribosomes,tissue
+RPS3,Ribosomes,tissue
+RPS5,Ribosomes,tissue
+RPL17,Ribosomes,tissue
+RPS14,Ribosomes,tissue
+RPL12,Ribosomes,tissue
+RPL3,Ribosomes,tissue
+RPL21,Ribosomes,tissue
+NACA,Ribosomes,tissue
+RPL13,Ribosomes,tissue
+RPL34,Ribosomes,tissue
+RPL14,Ribosomes,tissue
+RPL29,Ribosomes,tissue
+RPS8,Ribosomes,tissue
+RPS16,Ribosomes,tissue
+EIF3H,Ribosomes,tissue
+RPL35A,Ribosomes,tissue
+RPS10,Ribosomes,tissue
+RPL19,Ribosomes,tissue
+EIF3D,Ribosomes,tissue
+RPL38,Ribosomes,tissue
+RPS7,Ribosomes,tissue
+RPS17,Ribosomes,tissue
+RPL27,Ribosomes,tissue
+RPL37,Ribosomes,tissue
+RPL35,Ribosomes,tissue
+RPS2,Ribosomes,tissue
+RPL36A,Ribosomes,tissue
+EEF1G,Ribosomes,tissue
+GNB2L1,Ribosomes,tissue
+EEF1D,Ribosomes,tissue
+RPL7,Ribosomes,tissue
+SNHG6,Ribosomes,tissue
+RPS20,Ribosomes,tissue
+RPL30,Ribosomes,tissue
+RPL28,Ribosomes,tissue
+RPS29,Ribosomes,tissue
+RPL8,Ribosomes,tissue
+RPS21,Ribosomes,tissue
+RPL23A,Ribosomes,tissue
+RPL22,Ribosomes,tissue
+RPL27A,Ribosomes,tissue
+RPS11,Ribosomes,tissue
+RPL37A,Ribosomes,tissue
+RPL10L,Ribosomes,tissue
+RPLP0,Ribosomes,tissue
+RPL4,Ribosomes,tissue
+EIF3G,Ribosomes,tissue
+SNRPD2,Ribosomes,tissue
+RPL39,Ribosomes,tissue
+EEF1A1,Ribosomes,tissue
+EIF3K,Ribosomes,tissue
+UXT,Ribosomes,tissue
 GIMAP4,T cells,tissue
-GIMAP5,T cells,tissue
-GIMAP6,T cells,tissue
-GIMAP7,T cells,tissue
-GPR171,T cells,tissue
-GZMK,T cells,tissue
-ICOS,T cells,tissue
+CD2,T cells,tissue
+ARHGAP9,T cells,tissue
 IL23A,T cells,tissue
-IL7R,T cells,tissue
-ITGAL,T cells,tissue
-ITK,T cells,tissue
-PARVG,T cells,tissue
-PPM1M,T cells,tissue
-PRKCH,T cells,tissue
-PTPRC,T cells,tissue
-SH2D1A,T cells,tissue
-SIRPG,T cells,tissue
-TARP,T cells,tissue
-TBC1D10C,T cells,tissue
-TRAC,T cells,tissue
-TRAF3IP3,T cells,tissue
-TRAT1,T cells,tissue
-TRGC2,T cells,tissue
-TRGV9,T cells,tissue
-UBASH3A,T cells,tissue
-APBB1IP,T cells,tissue
-ARHGAP15,T cells,tissue
-ARHGAP25,T cells,tissue
-BTK,T cells,tissue
-CCR2,T cells,tissue
-CCR7,T cells,tissue
-CD27,T cells,tissue
 CD48,T cells,tissue
+RASSF5,T cells,tissue
 CD52,T cells,tissue
-CD96,T cells,tissue
-CLIC2,T cells,tissue
-CORO1A,T cells,tissue
-CRTAM,T cells,tissue
-CXCR6,T cells,tissue
-CYTIP,T cells,tissue
-DOCK10,T cells,tissue
-DOCK2,T cells,tissue
-DOCK8,T cells,tissue
-FLI1,T cells,tissue
-FYN,T cells,tissue
-GMFG,T cells,tissue
+ARHGAP25,T cells,tissue
+TBC1D10C,T cells,tissue
+NLRC3,T cells,tissue
+C1orf162,T cells,tissue
+SP140,T cells,tissue
 GPR18,T cells,tissue
 HCST,T cells,tissue
-HVCN1,T cells,tissue
-IL10RA,T cells,tissue
-IL16,T cells,tissue
-KLHL6,T cells,tissue
-KLRB1,T cells,tissue
-LCP1,T cells,tissue
-LY86,T cells,tissue
-MPEG1,T cells,tissue
-NCF1,T cells,tissue
-NCF1B,T cells,tissue
-NLRC3,T cells,tissue
-PSTPIP1,T cells,tissue
-PTPRCAP,T cells,tissue
-PVRIG,T cells,tissue
-RASSF5,T cells,tissue
-RCSD1,T cells,tissue
-RGS18,T cells,tissue
 RHOH,T cells,tissue
-SASH3,T cells,tissue
-SLA,T cells,tissue
-SP140,T cells,tissue
-WDFY4,T cells,tissue
-BIN2,T cells,tissue
-CCL19,T cells,tissue
+GZMK,T cells,tissue
+CORO1A,T cells,tissue
+ITGAL,T cells,tissue
+GIMAP7,T cells,tissue
+TRAC,T cells,tissue
+IL16,T cells,tissue
+TRAF3IP3,T cells,tissue
+EVI2B,T cells,tissue
+DOCK2,T cells,tissue
+IL10RA,T cells,tissue
+ARHGAP15,T cells,tissue
+PTPRC,T cells,tissue
+PRKCH,T cells,tissue
+LCP1,T cells,tissue
+CD27,T cells,tissue
+FAM26F,T cells,tissue
+DOCK8,T cells,tissue
+CD3G,T cells,tissue
+GIMAP2,T cells,tissue
+NCF1B,T cells,tissue
+FLI1,T cells,tissue
+CXCR6,T cells,tissue
+SH2D1A,T cells,tissue
+PVRIG,T cells,tissue
+CYTIP,T cells,tissue
+TRAT1,T cells,tissue
 CD3E,T cells,tissue
+GIMAP6,T cells,tissue
+CD96,T cells,tissue
+CD3D,T cells,tissue
+FYB,T cells,tissue
+CRTAM,T cells,tissue
+CCL19,T cells,tissue
+BIN2,T cells,tissue
+PARVG,T cells,tissue
+DOCK10,T cells,tissue
+TARP,T cells,tissue
+KLRB1,T cells,tissue
+KLHL6,T cells,tissue
+CCR7,T cells,tissue
 CD6,T cells,tissue
-DPEP2,T cells,tissue
-FMNL1,T cells,tissue
-GAB3,T cells,tissue
+UBASH3A,T cells,tissue
+TRGV9,T cells,tissue
+PSTPIP1,T cells,tissue
+IL7R,T cells,tissue
+CLIC2,T cells,tissue
+GPR171,T cells,tissue
+EVI2A,T cells,tissue
+APBB1IP,T cells,tissue
+AMICA1,T cells,tissue
+BTK,T cells,tissue
 HMHA1,T cells,tissue
-RNF166,T cells,tissue
+PTPRCAP,T cells,tissue
+ITK,T cells,tissue
+SLA,T cells,tissue
+CCR5,T cells,tissue
+GIMAP5,T cells,tissue
+RCSD1,T cells,tissue
+SASH3,T cells,tissue
+FYN,T cells,tissue
 TNFRSF9,T cells,tissue
-EEF1A1,Ribosomes,tissue
-EEF1B2,Ribosomes,tissue
-EEF1D,Ribosomes,tissue
-EEF1G,Ribosomes,tissue
-EIF3D,Ribosomes,tissue
-EIF3E,Ribosomes,tissue
-EIF3F,Ribosomes,tissue
-EIF3G,Ribosomes,tissue
-EIF3H,Ribosomes,tissue
-EIF3K,Ribosomes,tissue
-FAU,Ribosomes,tissue
-GNB2L1,Ribosomes,tissue
-NACA,Ribosomes,tissue
-PFDN5,Ribosomes,tissue
-RPL10,Ribosomes,tissue
-RPL10L,Ribosomes,tissue
-RPL11,Ribosomes,tissue
-RPL12,Ribosomes,tissue
-RPL13,Ribosomes,tissue
-RPL13A,Ribosomes,tissue
-RPL14,Ribosomes,tissue
-RPL15,Ribosomes,tissue
-RPL17,Ribosomes,tissue
-RPL18,Ribosomes,tissue
-RPL18A,Ribosomes,tissue
-RPL19,Ribosomes,tissue
-RPL21,Ribosomes,tissue
-RPL22,Ribosomes,tissue
-RPL23,Ribosomes,tissue
-RPL23A,Ribosomes,tissue
-RPL24,Ribosomes,tissue
-RPL27,Ribosomes,tissue
-RPL27A,Ribosomes,tissue
-RPL28,Ribosomes,tissue
-RPL29,Ribosomes,tissue
-RPL3,Ribosomes,tissue
-RPL30,Ribosomes,tissue
-RPL31,Ribosomes,tissue
-RPL32,Ribosomes,tissue
-RPL34,Ribosomes,tissue
-RPL35,Ribosomes,tissue
-RPL35A,Ribosomes,tissue
-RPL36A,Ribosomes,tissue
-RPL37,Ribosomes,tissue
-RPL37A,Ribosomes,tissue
-RPL38,Ribosomes,tissue
-RPL39,Ribosomes,tissue
-RPL4,Ribosomes,tissue
-RPL5,Ribosomes,tissue
-RPL6,Ribosomes,tissue
-RPL7,Ribosomes,tissue
-RPL7A,Ribosomes,tissue
-RPL8,Ribosomes,tissue
-RPL9,Ribosomes,tissue
-RPLP0,Ribosomes,tissue
-RPLP2,Ribosomes,tissue
-RPS10,Ribosomes,tissue
-RPS11,Ribosomes,tissue
-RPS13,Ribosomes,tissue
-RPS14,Ribosomes,tissue
-RPS15,Ribosomes,tissue
-RPS15A,Ribosomes,tissue
-RPS16,Ribosomes,tissue
-RPS17,Ribosomes,tissue
-RPS18,Ribosomes,tissue
-RPS19,Ribosomes,tissue
-RPS2,Ribosomes,tissue
-RPS20,Ribosomes,tissue
-RPS21,Ribosomes,tissue
-RPS23,Ribosomes,tissue
-RPS25,Ribosomes,tissue
-RPS27A,Ribosomes,tissue
-RPS28,Ribosomes,tissue
-RPS29,Ribosomes,tissue
-RPS3,Ribosomes,tissue
-RPS3A,Ribosomes,tissue
-RPS5,Ribosomes,tissue
-RPS6,Ribosomes,tissue
-RPS7,Ribosomes,tissue
-RPS8,Ribosomes,tissue
-RPS9,Ribosomes,tissue
-RPSA,Ribosomes,tissue
-SNHG6,Ribosomes,tissue
-SNHG8,Ribosomes,tissue
-SNRPD2,Ribosomes,tissue
-UXT,Ribosomes,tissue
+CD28,T cells,tissue
+HVCN1,T cells,tissue
+CXCL9,T cells,tissue
+LY86,T cells,tissue
+RGS18,T cells,tissue
+TRGC2,T cells,tissue
+DPEP2,T cells,tissue
+SIRPG,T cells,tissue
+CD8A,T cells,tissue
+ICOS,T cells,tissue
+GAB3,T cells,tissue
+GMFG,T cells,tissue
+GUCY1A3,Platelets,tissue
+BEND2,Platelets,tissue
+PROS1,Platelets,tissue
+SLC24A3,Platelets,tissue
+SELP,Platelets,tissue
+ENDOD1,Platelets,tissue
+FHL1,Platelets,tissue
+EGF,Platelets,tissue
+CLEC1B,Platelets,tissue
+MMRN1,Platelets,tissue
+WASF3,Platelets,tissue
+PEAR1,Platelets,tissue
+TNFSF4,Platelets,tissue
+ITGB5,Platelets,tissue
+CTTN,Platelets,tissue
+ASAP2,Platelets,tissue
+RHOBTB1,Platelets,tissue
+PTGS1,Platelets,tissue
+ALOX12,Platelets,tissue
+SPX,Platelets,tissue
+DNM3,Platelets,tissue
+MYLK,Platelets,tissue
+LTBP1,Platelets,tissue
+PDE5A,Platelets,tissue
+MFAP3L,Platelets,tissue
+CTDSPL,Platelets,tissue
+GUCY1B3,Platelets,tissue
+SH3BGRL2,Platelets,tissue
+TDRP,Platelets,tissue
+JAM3,Platelets,tissue
+PLOD2,Platelets,tissue
+TGFB1I1,Platelets,tissue
+ABLIM3,Platelets,tissue
+TRBV27,Platelets,tissue
+CALD1,Platelets,tissue
+GNAZ,Platelets,tissue
+STON2,Platelets,tissue
+PCSK6,Platelets,tissue
+ELOVL7,Platelets,tissue
+LOC100130938,Platelets,tissue
+PRTFDC1,Platelets,tissue
+ARHGAP6,Platelets,tissue
