@@ -206,7 +206,6 @@ CTSB,Macrophages,tissue
 HLA-DRB6,Macrophages,tissue
 FCGR2A,Macrophages,tissue
 TNFSF13B,Macrophages,tissue
-NCF2,Macrophages,tissue
 SLAMF8,Macrophages,tissue
 IFI30,Macrophages,tissue
 CCR1,Macrophages,tissue
@@ -268,7 +267,6 @@ CTSS,Macrophages,tissue
 AOAH,Macrophages,tissue
 ITGAM,Macrophages,tissue
 CSF1R,Macrophages,tissue
-CSF2RB,Macrophages,tissue
 SLC31A2,Macrophages,tissue
 C1QA,Macrophages,tissue
 SCPEP1,Macrophages,tissue
@@ -399,6 +397,48 @@ IGLV@,Plasma cells,tissue
 IGLJ3,Plasma cells,tissue
 IGLC1,Plasma cells,tissue
 IGLL3P,Plasma cells,tissue
+GUCY1A3,Platelets,tissue
+BEND2,Platelets,tissue
+PROS1,Platelets,tissue
+SLC24A3,Platelets,tissue
+SELP,Platelets,tissue
+ENDOD1,Platelets,tissue
+FHL1,Platelets,tissue
+EGF,Platelets,tissue
+CLEC1B,Platelets,tissue
+MMRN1,Platelets,tissue
+WASF3,Platelets,tissue
+PEAR1,Platelets,tissue
+TNFSF4,Platelets,tissue
+ITGB5,Platelets,tissue
+CTTN,Platelets,tissue
+ASAP2,Platelets,tissue
+RHOBTB1,Platelets,tissue
+PTGS1,Platelets,tissue
+ALOX12,Platelets,tissue
+SPX,Platelets,tissue
+DNM3,Platelets,tissue
+MYLK,Platelets,tissue
+LTBP1,Platelets,tissue
+PDE5A,Platelets,tissue
+MFAP3L,Platelets,tissue
+CTDSPL,Platelets,tissue
+GUCY1B3,Platelets,tissue
+SH3BGRL2,Platelets,tissue
+TDRP,Platelets,tissue
+JAM3,Platelets,tissue
+PLOD2,Platelets,tissue
+TGFB1I1,Platelets,tissue
+ABLIM3,Platelets,tissue
+TRBV27,Platelets,tissue
+CALD1,Platelets,tissue
+GNAZ,Platelets,tissue
+STON2,Platelets,tissue
+PCSK6,Platelets,tissue
+ELOVL7,Platelets,tissue
+LOC100130938,Platelets,tissue
+PRTFDC1,Platelets,tissue
+ARHGAP6,Platelets,tissue
 RPS3A,Ribosomes,tissue
 FAU,Ribosomes,tissue
 RPS23,Ribosomes,tissue
@@ -511,7 +551,6 @@ EVI2B,T cells,tissue
 DOCK2,T cells,tissue
 IL10RA,T cells,tissue
 ARHGAP15,T cells,tissue
-PTPRC,T cells,tissue
 PRKCH,T cells,tissue
 LCP1,T cells,tissue
 CD27,T cells,tissue
@@ -545,7 +584,6 @@ UBASH3A,T cells,tissue
 TRGV9,T cells,tissue
 PSTPIP1,T cells,tissue
 IL7R,T cells,tissue
-CLIC2,T cells,tissue
 GPR171,T cells,tissue
 EVI2A,T cells,tissue
 APBB1IP,T cells,tissue
@@ -555,7 +593,6 @@ HMHA1,T cells,tissue
 PTPRCAP,T cells,tissue
 ITK,T cells,tissue
 SLA,T cells,tissue
-CCR5,T cells,tissue
 GIMAP5,T cells,tissue
 RCSD1,T cells,tissue
 SASH3,T cells,tissue
@@ -573,45 +610,3 @@ CD8A,T cells,tissue
 ICOS,T cells,tissue
 GAB3,T cells,tissue
 GMFG,T cells,tissue
-GUCY1A3,Platelets,tissue
-BEND2,Platelets,tissue
-PROS1,Platelets,tissue
-SLC24A3,Platelets,tissue
-SELP,Platelets,tissue
-ENDOD1,Platelets,tissue
-FHL1,Platelets,tissue
-EGF,Platelets,tissue
-CLEC1B,Platelets,tissue
-MMRN1,Platelets,tissue
-WASF3,Platelets,tissue
-PEAR1,Platelets,tissue
-TNFSF4,Platelets,tissue
-ITGB5,Platelets,tissue
-CTTN,Platelets,tissue
-ASAP2,Platelets,tissue
-RHOBTB1,Platelets,tissue
-PTGS1,Platelets,tissue
-ALOX12,Platelets,tissue
-SPX,Platelets,tissue
-DNM3,Platelets,tissue
-MYLK,Platelets,tissue
-LTBP1,Platelets,tissue
-PDE5A,Platelets,tissue
-MFAP3L,Platelets,tissue
-CTDSPL,Platelets,tissue
-GUCY1B3,Platelets,tissue
-SH3BGRL2,Platelets,tissue
-TDRP,Platelets,tissue
-JAM3,Platelets,tissue
-PLOD2,Platelets,tissue
-TGFB1I1,Platelets,tissue
-ABLIM3,Platelets,tissue
-TRBV27,Platelets,tissue
-CALD1,Platelets,tissue
-GNAZ,Platelets,tissue
-STON2,Platelets,tissue
-PCSK6,Platelets,tissue
-ELOVL7,Platelets,tissue
-LOC100130938,Platelets,tissue
-PRTFDC1,Platelets,tissue
-ARHGAP6,Platelets,tissue
