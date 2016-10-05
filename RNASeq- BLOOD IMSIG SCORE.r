@@ -247,7 +247,7 @@ colnames(m3)[1]="gene"
 m4=rbind(m2,m3)
 m5=unique(m4)
  
-macrophages <- m5[m5$gene %in% as.character(pdata[pdata$cell == "Macrophages/Dendritic cells", 1]),]
+macrophages <- m5[m5$gene %in% as.character(pdata[pdata$cell == "Macrophages", 1]),]
 monocytes <- m5[m5$gene %in% as.character(pdata[pdata$cell == "Monocytes", 1]),]
 bcell <- m5[m5$gene %in% as.character(pdata[pdata$cell == "B cells", 1]),]
 neutrophils <- m5[m5$gene %in% as.character(pdata[pdata$cell == "Neutrophils", 1]),]
